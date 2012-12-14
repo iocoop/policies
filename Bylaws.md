@@ -1,4 +1,4 @@
-## SUMMARIZED TABLE OF CONTENTS: BYLAWS OF CERNIO COOPERATIVE
+## SUMMARIZED TABLE OF CONTENTS: BYLAWS OF IO COOPERATIVE
 
 ### Article I. Identity
 ### Article II. Purposes
@@ -13,7 +13,7 @@
 ### Article XI. Surplus Allocations and Distributions
 ### Article XII. Bylaw Changes
 
-## DETAILED TABLE OF CONTENTS: BYLAWS OF CERNIO COOPERATIVE
+## DETAILED TABLE OF CONTENTS: BYLAWS OF IO COOPERATIVE
 
 ### ARTICLE I. IDENTITY
 
@@ -134,7 +134,7 @@
 
 ### Section 1.01. Name.
 
-The cooperative described in these Bylaws will be known as Cernio Technology Cooperative, referred to, _infra_, as "the Cooperative."
+The cooperative described in these Bylaws will be known as IO Technology Cooperative, referred to, _infra_, as "the Cooperative."
 
 ## ARTICLE II. PURPOSES
 
@@ -566,7 +566,7 @@ Where the Board of Directors is denied the right to adopt, amend, or repeal thes
 
 * * *
 
-CERTIFICATE OF SECRETARY OF CERNIO COOPERATIVE
+CERTIFICATE OF SECRETARY OF IO COOPERATIVE
 
 I hereby certify that I am the duly elected and acting Secretary of this Corporation and that the foregoing Bylaws constitute the Bylaws of this Corporation, as duly adopted by the Board of Directors on September 12, 2012.
 
