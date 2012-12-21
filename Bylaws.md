@@ -1,9 +1,9 @@
-## SUMMARIZED TABLE OF CONTENTS: BYLAWS OF IO COOPERATIVE
+﻿## SUMMARIZED TABLE OF CONTENTS: BYLAWS OF IO COOPERATIVE
 
 ### Article I. Identity
 ### Article II. Purposes
-### Article III. Membership
-### Article IV. Shares
+### Article III. Definitions
+### Article IV. Membership
 ### Article V. Termination of Membership
 ### Article VI. Membership Meetings and Members
 ### Article VII. Directors
@@ -12,131 +12,137 @@
 ### Article X. Inspection Rights
 ### Article XI. Surplus Allocations and Distributions
 ### Article XII. Bylaw Changes
+### Article XIII. Indemnification
 
 ## DETAILED TABLE OF CONTENTS: BYLAWS OF IO COOPERATIVE
 
-### ARTICLE I. IDENTITY
+### Article I. Identity
 
-#### 1.01. Name
+#### Section 1.01. Name.
 
-### ARTICLE II. PURPOSES
+### Article II. Purposes
 
-#### 2.01. Business
-#### 2.02. Other Objectives
+#### Section 2.01. Business.
+#### Section 2.02. Other Objectives.
 
-### ARTICLE III. MEMBERSHIP
+### Article III. Definitions
 
-#### 3.01. Classification of Members
-#### 3.02. Membership Qualifications
-#### 3.03. Membership Application
-#### 3.04. Acceptance of Members
-#### 3.05. Transfers Prohibited
-#### 3.06. Membership Fee
-#### 3.07. Bylaws and Disclosures
-#### 3.08. Shareholders and Members
+#### Section 3.01. Governing Law.
+#### Section 3.02. Electronic Communications.
+#### Section 3.03. Shareholders and Members.
 
-### ARTICLE IV. SHARES
+### Article IV. Membership
 
-#### 4.01. Share Issuance
-#### 4.02. Share Ownership
-#### 4.03. Share Receipt and Disclosures
-#### 4.04. Prohibition on Transfer of Shares
-#### 4.05. Partial Withdrawal
-#### 4.06. Insolvency Delay
-#### 4.07. Unclaimed Equity Interests
+#### Section 4.01. Classification of Members.
+#### Section 4.02. Membership Qualifications.
+#### Section 4.03. Membership Application.
+#### Section 4.04. Acceptance of Members.
+#### Section 4.05. Transfers Prohibited.
+#### Section 4.06. Membership Fee.
+#### Section 4.07. Bylaws and Disclosures.
+#### Section 4.08. Membership Issuance.
+#### Section 4.09. Membership Ownership.
+#### Section 4.10. Membership Receipt and Disclosures.
+#### Section 4.11. Prohibition on Transfer of Memberships.
+#### Section 4.12. Insolvency Delay.
+#### Section 4.13. Unclaimed Equity Interests.
 
-### ARTICLE V. TERMINATION OF MEMBERSHIP
+### Article V. Termination of Membership
 
-#### 5.01. Voluntary Withdrawal
-#### 5.02. Death or Dissolution
-#### 5.03. Expulsion
-#### 5.04. Settlement of Share Interest
+#### Section 5.01. Voluntary Withdrawal.
+#### Section 5.02. Death or Dissolution.
+#### Section 5.03. Expulsion.
+#### Section 5.04. Settlement of Membership Interest.
 
-### ARTICLE VI. MEMBERSHIP MEETINGS AND MEMBERS
+### Article VI. Membership Meetings and Members
 
-#### 6.01. Location
-#### 6.02. Regular Annual Meetings
-#### 6.03. Special Meetings
-#### 6.04. Time for Notice of Meetings
-#### 6.05. Method of Giving Notice
-#### 6.06. Record Date for Notice
-#### 6.07. Contents of Notice
-#### 6.08. Waivers, Consents, and Approvals
-#### 6.09. Quorum at Meeting
-#### 6.10. Loss of Quorum at Meeting
-#### 6.11. Adjournment for Lack of Quorum
-#### 6.12. Adjourned Meetings
-#### 6.13. Voting of Memberships
-#### 6.14. Use of Written Ballots at Meetings
-#### 6.15. Contents of Written or Electronic Ballot Used at Meetings
-#### 6.16. Action by Ballot without Meeting
-#### 6.17. Written Ballot Used without Meeting
-#### 6.18. Solicitation of Written Ballots
-#### 6.19. Withholding Vote
-#### 6.20. Appointment of Inspectors of Election
-#### 6.21. Duties of Inspectors of Election
+#### Section 6.01. Location.
+#### Section 6.02. Regular Annual Meetings.
+#### Section 6.03. Special Meetings.
+#### Section 6.04. Time for Notice of Meetings.
+#### Section 6.05. Method of Giving Notice.
+#### Section 6.06. Record Date for Notice.
+#### Section 6.07. Contents of Notice.
+#### Section 6.08. Waivers, Consents, and Approvals.
+#### Section 6.09. Quorum at Meeting.
+#### Section 6.10. Loss of Quorum at Meeting.
+#### Section 6.11. Adjournment for Lack of Quorum.
+#### Section 6.12. Adjourned Meetings.
+#### Section 6.13. Voting of Memberships.
+#### Section 6.14. Use of Written or Electronic Ballots at Meetings.
+#### Section 6.15. Contents of Written or Electronic Ballot Used at Meetings.
+#### Section 6.16. Action by Ballot without Meeting.
+#### Section 6.17. Written or Electronic Ballot Used without Meeting.
+#### Section 6.18. Solicitation of Written or Electronic Ballots.
+#### Section 6.19. Withholding Vote.
+#### Section 6.20. Appointment of Inspectors of Election.
+#### Section 6.21. Duties of Inspectors of Election.
 
-### ARTICLE VII. DIRECTORS
+### Article VII. Directors
 
-#### 7.01. Number
-#### 7.02. Qualifications
-#### 7.03. Nomination
-#### 7.04. Election
-#### 7.05. Terms of Office
-#### 7.06. Compensation
-#### 7.07. Call of Meetings
-#### 7.08. Place of Meetings
-#### 7.09. Presence at Meetings
-#### 7.10. Regular Meetings
-#### 7.11. Special Meetings and Notice
-#### 7.12. Quorum at Meetings
-#### 7.13. Acts of Board at Meetings
-#### 7.14. Adjournment of Meetings
-#### 7.15. Action without Meeting
-#### 7.16. Executive Committees
-#### 7.17. Resignation of Directors
-#### 7.18. Removal of Directors
-#### 7.19. Cause of Vacancies on Board
-#### 7.20. Declaration of Vacancies
-#### 7.21. Filling Vacancies on Board
+#### Section 7.01. Number.
+#### Section 7.02. Qualifications.
+#### Section 7.03. Nomination.
+#### Section 7.04. Election.
+#### Section 7.05. Terms of Office.
+#### Section 7.06. Compensation.
+#### Section 7.07. Call of Meetings.
+#### Section 7.08. Place of Meetings.
+#### Section 7.09. Presence at Meetings.
+#### Section 7.10. Regular Meetings.
+#### Section 7.11. Special Meetings and Notice.
+#### Section 7.12. Quorum at Meetings.
+#### Section 7.13. Acts of Board at Meetings.
+#### Section 7.14. Adjournment of Meetings.
+#### Section 7.15. Action without Meeting.
+#### Section 7.16. Executive Committees.
+#### Section 7.17. Resignation of Directors.
+#### Section 7.18. Removal of Directors.
+#### Section 7.19. Cause of Vacancies on Board.
+#### Section 7.20. Declaration of Vacancies.
+#### Section 7.21. Filling Vacancies on Board.
 
-### ARTICLE VIII. OFFICERS
+### Article VIII. Officers
 
-#### 8.01. Titles
-#### 8.02. Appointment and Resignation
+#### Section 8.01. Titles.
+#### Section 8.02. Appointment and Resignation.
 
-### ARTICLE IX. CORPORATE RECORDS AND REPORTS
+### Article IX. Corporate Records and Reports
 
-#### 9.01. Required Records
-#### 9.02. Annual Report
-#### 9.03. Annual Statement of Transactions and Indemnifications
+#### Section 9.01. Required Records.
+#### Section 9.02. Annual Report.
+#### Section 9.03. Annual Statement of Transactions and Indemnifications.
 
-### ARTICLE X. INSPECTION RIGHTS
+### Article X. Inspection Rights
 
-#### 10.01. Articles and Bylaws
-#### 10.02. Books and Records
-#### 10.03. Inspection of Membership List
+#### Section 10.01. Articles and Bylaws.
+#### Section 10.02. Books and Records.
+#### Section 10.03. Inspection of Membership List.
 
-### ARTICLE XI. SURPLUS ALLOCATIONS AND DISTRIBUTIONS
+### Article XI. Surplus Allocations and Distributions
 
-#### 11.01. Fiscal Year
-#### 11.02. Surplus and Patronage Defined
-#### 11.03. Annual Allocations and Distributions of Surplus
+#### Section 11.01. Fiscal Year.
+#### Section 11.02. Surplus and Patronage Defined.
+#### Section 11.03. Annual Allocations and Distributions of Surplus.
 
-### ARTICLE XII. BYLAW CHANGES
+### Article XII. Bylaw Changes
 
-#### 12.01. Bylaw Changes by the Board
-#### 12.02. Bylaw Changes by the Members
+#### Section 12.01. Bylaw Changes by the Board.
+#### Section 12.02. Bylaw Changes by the Members.
+
+### Article XIII. Indemnification
+
+#### Section 13.01. Indemnification of Agents
 
 * * *
 
-## ARTICLE I. IDENTITY
+## Article I. Identity
 
 ### Section 1.01. Name.
 
-The cooperative described in these Bylaws will be known as IO Technology Cooperative, referred to, _infra_, as "the Cooperative."
+The cooperative described in these Bylaws will be known as IO Cooperative, referred to, infra, as "the Cooperative."
 
-## ARTICLE II. PURPOSES
+## Article II. Purposes
 
 ### Section 2.01. Business.
 
@@ -152,81 +158,83 @@ Other objectives of the Cooperative include:
 
 (c) Conducting such other activities as will serve the economic, educational, recreational, and cultural welfare of its members and the public.
 
-## ARTICLE III. MEMBERSHIP
+## Article III. Definitions
 
-### Section 3.01. Classification of Members.
+### Section 3.01. Governing Law.
 
-The Cooperative shall have one (1) class of members.
+Unless the context requires otherwise, the general provisions, rules of construction, and definitions in the California Consumer Cooperative Corporation Law, referred to henceforth as "Coop Law", shall govern the construction of these bylaws.
 
-### Section 3.02. Membership Qualifications.
+### Section 3.02. Electronic Communications.
+
+To the fullest extent possible, "written" or "in writing" in these Bylaws includes facsimile, telegraphic, electronic mail, and other electronic transmission by and to the corporation, as authorized by California Corporate Code Sections 8, 20, and 21.
+
+### Section 3.03. Shareholders and Members.
+
+"Shareholder" and "member" and their plurals will be synonymous terms throughout these Bylaws.
+
+## Article IV. Membership
+
+### Section 4.01. Classification of Members.
+
+The Cooperative shall have one class of members.
+
+### Section 4.02. Membership Qualifications.
 
 Any natural person or organization (except a subsidiary of the Cooperative), who supports the values, vision, and mission of the Cooperative, and is prepared to accept the responsibilities of membership, may become and remain a member of the Cooperative by:
 
 (a) Complying with such uniform conditions as may be prescribed by the Board of Directors;
 
-(b) Making full payment of any nonrefundable membership fee as authorized in section 3.06 of these Bylaws; and
+(b) Making full payment of any nonrefundable membership fee as authorized in section 4.06 of these Bylaws; and
 
-(c) Making payment for one (1) share, either in full, or in accordance with a payment schedule established under section 4.01 of these Bylaws.
+(c) Making payment for one membership, either in full, or in accordance with a payment schedule established under section 4.08 of these Bylaws.
 
-### Section 3.03. Membership Application.
+### Section 4.03. Membership Application.
 
-An applicant eligible for and desiring admission in the Cooperative must file a written application for admission in whatever form and containing whatever information the Board of Directors may prescribe.
+An applicant eligible for and desiring admission in the Cooperative must file a written application for admission in whatever form and containing whatever information the the Board of Directors may prescribe.
 
-### Section 3.04. Acceptance of Members.
+### Section 4.04. Acceptance of Members.
 
-Applications for membership will be reviewed by the Board of Directors or by a duly authorized Membership Committee. An applicant will be accepted unless rejected in writing within thirty days for reasons satisfactory to the Board. If accepted, the applicant will be admitted to membership. If rejected, the applicant will be notified in writing and entitled to a refund of any amounts paid for membership fees and shares.
+Applications for membership will be reviewed by the Board of Directors or by a duly authorized Membership Committee. An applicant will be accepted unless rejected in writing within thirty days for reasons satisfactory to the Board. If accepted, the applicant will be admitted to membership. If rejected, the applicant will be notified in writing and entitled to a refund of any amounts paid for membership fees and memberships.
 
-### Section 3.05. Transfers Prohibited.
+### Section 4.05. Transfers Prohibited.
 
 No member may transfer his or her membership or any right arising therefrom.
 
-### Section 3.06. Membership Fee.
+### Section 4.06. Membership Fee.
 
 A one-time, nonrefundable membership fee, in an amount set from time to time by the Board of Directors, may be charged and collected from each member upon joining the Cooperative.
 
-### Section 3.07. Bylaws and Disclosures.
+### Section 4.07. Bylaws and Disclosures.
 
-Each prospective member, upon application for membership, shall receive a copy of the Articles of Incorporation, Bylaws, and other relevant disclosures required by Cal. Corp. Code Sec. 12401(b).
+Each prospective member, upon application for membership, shall receive a copy of the Articles of Incorporation, Bylaws, and other relevant disclosures required by Coop Law Section 12401(b).
 
-### Section 3.08. Shareholders and Members.
+### Section 4.08. Membership Issuance.
 
-"Shareholder" and "member" and their plurals will be synonymous terms throughout these Bylaws.
+Memberships may be issued for money paid in an amount and on terms determined from time to time by the Board of Directors. No member shall be issued more than one membership.
 
-## ARTICLE IV. SHARES
+### Section 4.09. Membership Ownership.
 
-### Section 4.01. Share Issuance.
+Membership ownership entitles a member to only one vote in the affairs of the Cooperative, and to all the rights of membership as described by statute, the Articles of Incorporation, and these Bylaws. The Cooperative will not pay dividends on memberships.
 
-Shares may be issued for money paid in an amount and on terms determined from time to time by the Board of Directors, and as share dividends, patronage refunds, or other changes affecting outstanding shares.
+### Section 4.10. Membership Receipt and Disclosures.
 
-### Section 4.02. Share Ownership.
+(a) Pursuant to Coop Law Section 12401, prior to issuing a membership, the Cooperative will provide a written disclosure to the purchaser, containing all information required by the statute, in one of its prescribed forms.
 
-Share ownership entitles a member to only one vote in the affairs of the Cooperative, regardless of the total number of shares a member owns, and to all the rights of membership as described by statute, the Articles of Incorporation, and these Bylaws. The Cooperative will not pay dividends on shares.
+(b) The Cooperative will issue a receipt or written advice of purchase to anyone purchasing a membership.
 
-### Section 4.03. Share Receipt and Disclosures.
+### Section 4.11. Prohibition on Transfer of Memberships.
 
-(a) Pursuant to Cal. Corp. Code Sec. 12401, prior to issuing a share, the Cooperative will provide a written disclosure to the purchaser, containing all information required by the statute, in one of its prescribed forms.
+No memberships of this Cooperative may be assigned or transferred. Any attempted assignment or transfer shall be wholly void and shall confer no rights on the intended assignee or transferee.
 
-(b) The Cooperative will issue a receipt or written advice of purchase to anyone purchasing a share.
+### Section 4.12. Insolvency Delay.
 
-(c) No disclosure document need be provided to an existing member prior to the purchase of additional shares, if that member has previously been provided with a disclosure document that is accurate and correct as of the date of the purchase of the additional shares.
+The Cooperative will delay the purchase of memberships as described in section 5.04 of these Bylaws if the Cooperative, in making such purchase is, or as a result thereof would be, likely to be unable to meet its liabilities (except those whose payment is otherwise adequately provided for) as they mature.
 
-### Section 4.04. Prohibition on Transfer of Shares.
+### Section 4.13. Unclaimed Equity Interests.
 
-No shares of this Cooperative may be assigned or transferred. Any attempted assignment or transfer shall be wholly void and shall confer no rights on the intended assignee or transferee.
+Any membership of a member, together with any accrued and unpaid patronage distributions related to that member, that would otherwise escheat to the State of California as unclaimed personal property, shall instead become the property of the Cooperative if the Cooperative gives at least sixty days' prior notice of the proposed transfer to the affected member by (1) first-class or second-class mail to the last address of the member shown on the Cooperative's records, and (2) by publication in a newspaper of general circulation in the county in which the Cooperative has its principal office. No memberships or amounts shall become the property of the Cooperative under this section of the Bylaws if written notice objecting to the transfer is received by the Cooperative from the affected member prior to the date of the proposed transfer.
 
-### Section 4.05. Partial Withdrawal.
-
-A member having a monetary amount in his or her share account in excess of a monetary amount to be determined from time to time by the Board of Directors may cause the Cooperative to purchase his or her excess share amount upon written request to the Board. Subject to section 4.06 of these Bylaws, the Board must, within one year of such request, pay the amount the member requests in cash or other property or both, the exact form of payment at the discretion of the Board.
-
-### Section 4.06. Insolvency Delay.
-
-The Cooperative will delay the purchase of shares as described in sections 4.05 and 5.04 of these Bylaws if the Cooperative, in making such purchase is, or as a result thereof would be, likely to be unable to meet its liabilities (except those whose payment is otherwise adequately provided for) as they mature.
-
-### Section 4.07. Unclaimed Equity Interests.
-
-Any share of a member, together with any accrued and unpaid patronage distributions related to that member, that would otherwise escheat to the State of California as unclaimed personal property, shall instead become the property of the Cooperative if the Cooperative gives at least sixty days' prior notice of the proposed transfer to the affected member by (1) first-class or second-class mail to the last address of the member shown on the Cooperative's records, and (2) by publication in a newspaper of general circulation in the county in which the Cooperative has its principal office. No shares or amounts shall become the property of the Cooperative under this section of the Bylaws if written notice objecting to the transfer is received by the Cooperative from the affected member prior to the date of the proposed transfer.
-
-## ARTICLE V. TERMINATION OF MEMBERSHIP
+## Article V. Termination of Membership
 
 ### Section 5.01. Voluntary Withdrawal.
 
@@ -238,25 +246,25 @@ A membership shall immediately terminate upon the death of a member or the disso
 
 ### Section 5.03. Expulsion.
 
-(a) A member may, for failure to comply with these Bylaws, rules, or regulations of the Cooperative, or for any other justifiable reason, including refusal to repay debt owed to the Cooperative, be expelled from the Cooperative by resolution adopted by a two-thirds vote of all members of the Board of Directors. Expulsion shall become effective immediately unless the Board shall, in the resolution, fix another time. On expulsion, the name of the member expelled shall be stricken from the membership register and all of his or her rights shall cease except as provided in Section 5.04 of these Bylaws.
+(a) A member may, for failure to comply with these Bylaws, rules, or regulations of the Cooperative, for failure to patronize the Corporation during the immediately preceding fiscal year of the Corporation in the amount of at least fifty dollars ($50.00), or for any other justifiable reason, including refusal to repay debt owed to the Cooperative, be expelled from the Cooperative by resolution adopted by a two-thirds vote of all members of the Board of Directors. Expulsion shall become effective immediately unless the Board shall, in the resolution, fix another time. On expulsion, the name of the member expelled shall be stricken from the membership register and all of his or her rights shall cease except as provided in Section 5.04 of these Bylaws.
 
 (b) Prior to expulsion of a member, the Board of Directors shall give such member at least fifteen days notice prior thereto and the reasons thereof. Such member shall have the opportunity to be heard, orally or in writing, not less than five days before the effective date of expulsion by the Board.
 
 (c) The notice required pursuant to subsection (b) of this section of these Bylaws may be given by any method reasonably calculated to provide actual notice. Any notice given by mail must be given by first-class or registered mail sent to the last known address of the member shown on the Cooperative's records.
 
-### Section 5.04. Settlement of Share Interest.
+### Section 5.04. Settlement of Membership Interest.
 
-If a membership is terminated for any reason set forth in this Article of the Bylaws, the share interest held by the member shall be purchased by the Cooperative, subject to Section 4.06 of these Bylaws, within one year of the date of termination to the extent of the paid-up value of the member's shares on such date. The Board of Directors, in so settling the member's share interest, shall have the right to set off any and all indebtedness of the member to the Cooperative. The paid-up value of the member's share interest is the monetary amount of such interest (including fractional shares) that the member has been issued in accordance with Section 4.01 of these Bylaws.
+If a membership is terminated for any reason set forth in this Article of the Bylaws, the membership interest held by the member shall be purchased by the Cooperative, subject to Section 4.12 of these Bylaws, within one year of the date of termination to the extent of the paid-up value of the member's membership on such date. The Board of Directors, in so settling the member's membership interest, shall have the right to set off any and all indebtedness of the member to the Cooperative. The paid-up value of the member's membership interest is the monetary amount of such interest (including fractional memberships) that the member has been issued in accordance with Section 4.08 of these Bylaws.
 
-## ARTICLE VI. MEMBERSHIP MEETINGS AND MEMBERS
+## Article VI. Membership Meetings and Members
 
 ### Section 6.01. Location.
 
-Meetings of members shall be held at a location designated by the board.
+Meetings of members shall be held either by electronic transmission by and to the Cooperative, as authorized by Coop Law Section 12460(f), or at a location designated by the board.
 
 ### Section 6.02. Regular Annual Meetings.
 
-A regular meeting of members shall be held annually on the first *Monday* in *August* at *6:30 p.m.* for the purpose of transacting any proper business, including the election of Directors, that may come before the meeting. If the day fixed for the regular meeting falls on a legal holiday, the meeting shall be held at the same time and place on the next day.
+A regular meeting of members shall be held annually on the first Monday in August at 6:30 p.m. for the purpose of transacting any proper business, including the election of Directors, that may come before the meeting. If the day fixed for the regular meeting falls on a legal holiday, the meeting shall be held at the same time and place on the next day.
 
 ### Section 6.03. Special Meetings.
 
@@ -268,7 +276,7 @@ Whenever members are required or permitted to take action at a meeting, a writte
 
 ### Section 6.05. Method of Giving Notice.
 
-Notice shall be given either personally or by mail or other written communication to the address of a member appearing on the books of the Corporation or provided by the member. If no address appears or is given, notice shall be given at the principal office of the Corporation. 
+Notice shall be given either personally, by electronic transmission by the corporation, or by mail or other means of written communication to the address of a member appearing on the books of the Corporation or provided by the member. If no address appears or is given, notice shall be given at the principal office of the Corporation. 
 
 ### Section 6.06. Record Date for Notice.
 
@@ -276,7 +284,7 @@ The record date for determining the members entitled to notice of any meeting of
 
 ### Section 6.07. Contents of Notice.
 
-The notice shall state the place, date, and time of the meeting. The notice of a regular meeting shall state any matters that the Board of Directors, at the time of giving notice, intends to present for action by the members. The notice of a special meeting shall state the general nature of the business to be transacted. The notice of any meeting at which Directors are to be elected shall include the names of all nominees at the time of giving notice.
+The notice shall state the place, date, and time of the meeting, and the means of electronic transmission by and to the corporation, or electronic video screen communication, if any, by which members may participate in that meeting. The notice of a regular meeting shall state any matters that the Board of Directors, at the time of giving notice, intends to present for action by the members. The notice of a special meeting shall state the general nature of the business to be transacted. The notice of any meeting at which Directors are to be elected shall include the names of all nominees at the time of giving notice.
 
 ### Section 6.08. Waivers, Consents, and Approvals.
 
@@ -298,7 +306,7 @@ In the absence of a quorum, any meeting of members may be adjourned by the vote 
 
 ### Section 6.12. Adjourned Meetings.
 
-The corporation may transact any business at an adjourned meeting that could have been transacted at the original meeting. When a meeting is adjourned to another time or place, no notice is required if the time and place are announced at the original meeting. If the adjournment is for more than forty-five (45) days or if a new record date is fixed, a notice of the adjourned meeting shall be given to each member of record entitled to vote at the meeting.
+The corporation may transact any business at an adjourned meeting that could have been transacted at the original meeting. When a meeting is adjourned to another time or place, no notice is required if the time and place (or the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which members may participate) are announced at the original meeting. If the adjournment is for more than forty-five (45) days or if a new record date is fixed, a notice of the adjourned meeting shall be given to each member of record entitled to vote at the meeting.
 
 ### Section 6.13. Voting of Memberships.
 
@@ -312,7 +320,7 @@ The corporation may transact any business at an adjourned meeting that could hav
 
 (e) Voting by proxy shall not be permitted for any purpose.
 
-### Section 6.14. Use of Written Ballots at Meetings.
+### Section 6.14. Use of Written or Electronic Ballots at Meetings.
 
 A combination of written or electronic ballot and personal voting may be used at any regular or special meeting of members, and may be used for the election of Directors. Prior to the meeting, the Board of Directors may authorize distribution of a written or electronic ballot to every member entitled to vote. The ballots shall be distributed in a manner consistent with the provisions of Sections 6.05, 6.17(b), and 6.19 of these Bylaws. When ballots are distributed, the number of members voting at the meeting by written or electronic ballot shall be deemed present at the meeting for purposes of determining a quorum but only with respect to the proposed actions referred to in the ballots. 
 
@@ -324,7 +332,7 @@ Any written ballot used at a meeting shall set forth the proposed action to be t
 
 Any action that may be taken at any regular or special meeting, including election of Directors, may be taken without a meeting through distribution of a written or electronic ballot to every member entitled to vote on the matter. The Secretary shall cause a vote to be taken by written or electronic ballot on any action or recommendation proposed in writing by at least twenty percent (20%) of the members. 
 
-### Section 6.17. Written Ballot Used without Meeting.
+### Section 6.17. Written or Electronic Ballot Used without Meeting.
 
 (a) Any ballot used without a meeting shall set forth the proposed action, provide an opportunity to specify approval or disapproval of any proposal, and provide a reasonable time within which to return the ballot to the Corporation.
 
@@ -332,13 +340,13 @@ Any action that may be taken at any regular or special meeting, including electi
 
 (c) A written or electronic ballot cannot be revoked. Approval by written or electronic ballot shall be valid only when the number of votes cast by ballot within the time period specified equals or exceeds the quorum required to be present at a meeting authorizing the action, and the number of approvals equals or exceeds the number of votes that would be required to approve at a meeting at which the total number of votes cast was the same as the number of votes cast by ballot.
 
-### Section 6.18. Solicitation of Written Ballots.
+### Section 6.18. Solicitation of Written or Electronic Ballots.
 
 Ballots shall be solicited in a manner consistent with Sections 6.05, 6.17(b), and 6.19 of these Bylaws. The solicitations shall indicate the number of responses needed to meet the quorum requirement and specify the time by which the ballot must be received to be counted. Ballots other than for the election of Directors shall state the percentage of approvals necessary to pass the measure.
 
 ### Section 6.19. Withholding Vote.
 
-In an election of Directors, any form of written ballot, which names the candidates for Director and which the member has marked "withhold" (or otherwise indicated that the authority to vote in the election of Directors is withheld) shall not be used for voting in that election.
+In an election of Directors, any form of written or electronic ballot, which names the candidates for Director and which the member has marked "withhold" (or otherwise indicated that the authority to vote in the election of Directors is withheld) shall not be used for voting in that election.
 
 ### Section 6.20. Appointment of Inspectors of Election.
 
@@ -348,11 +356,11 @@ In advance of any meeting of members, the Board of Directors may appoint inspect
 
 The inspectors shall determine the number of memberships outstanding and the voting power of each, the number represented at the meeting, and the existence of a quorum. They shall receive votes, ballots, and consents, hear and determine all challenges and questions regarding the right to vote, count and tabulate all votes and consents, determine when the polls will close, and determine the result. They may do those acts which are proper to conduct the election or vote with fairness to all members. The inspectors shall perform these duties impartially, in good faith, to the best of their ability, and as expeditiously as is practical.
 
-## ARTICLE VII. DIRECTORS
+## Article VII. Directors
 
 ### Section 7.01. Number.
 
-The corporation shall have no fewer than three and no more than nine Directors, collectively known as the Board of Directors.
+The corporation shall have no fewer than three and no more than nine Directors, collectively known as the Board of Directors. The exact number of directors shall be fixed, within those limits, by a resolution adopted by the Board of Directors.
 
 ### Section 7.02. Qualifications.
 
@@ -366,11 +374,11 @@ Any natural person eligible to join the Cooperative may serve on the Board of Di
 
 ### Section 7.04. Election.
 
-The Directors shall be elected at the annual meetings or by written ballot in accordance with Sections 6.16–6.19 of these Bylaws. The candidates receiving the highest number of votes up to the number of Directors to be elected shall be elected.
+The Directors shall be elected at the annual meetings or by written or electronic ballot in accordance with Sections 6.16–6.19 of these Bylaws. The candidates receiving the highest number of votes up to the number of Directors to be elected shall be elected.
 
 ### Section 7.05. Terms of Office.
 
-The terms of office for Directors shall be 1 year. Each Director shall hold office until the expiration of the term for which elected and until the election and qualification of a successor. 
+The terms of office for Directors shall be 1 year. Each Director shall hold office until the expiration of the term for which elected and until the election and qualification of a successor. Any reduction of the authorized number of Directors shall not result in any Director's being removed before his or her term of office expires.
 
 ### Section 7.06. Compensation.
 
@@ -386,15 +394,15 @@ Meetings of the Board of Directors may be held at any place designated in the no
 
 ### Section 7.09. Presence at Meetings.
 
-Directors may participate at meetings of the Board through the use of conference telephone or other communications equipment, as long as all participating Directors can hear one another. Participation by communications equipment constitutes presence at the meeting. 
+Directors may participate at meetings of the Board through the use of conference telephone, electronic video screen communication, or electronic transmission by and to the corporation. Participation by communications equipment constitutes presence at the meeting as long as the requirements listed in Coop Law Section 12351(a)(6) have been met.
 
 ### Section 7.10. Regular Meetings.
 
-Regular meetings of the Board of Directors shall be held, without call or notice, at the principal office of the Corporation immediately following the annual meeting of members, as set forth in Section 6.02 of these Bylaws.
+Regular meetings of the Board of Directors shall be held, without call or notice, immediately following the annual meeting of members, as set forth in Section 6.02 of these Bylaws.
 
 ### Section 7.11. Special Meetings and Notice.
 
-Special meetings shall be held on four (4) days' notice by first-class mail or forty-eight (48) hours notice delivered personally or by telephone or telegraph. Notice of regular or special meetings need not be given to any Director who signs a waiver of notice, a written consent to holding the meeting, or an approval of the minutes (either before or after the meeting), or who attends the meeting without protesting prior thereto or at its commencement, the lack of notice to that Director. All waivers, consents, and approvals shall be filed with the corporate records or made a part of the minutes of the meetings. 
+Special meetings shall be held upon four (4) days' notice by first-class mail or forty-eight (48) hours notice delivered personally or by telephone, including a voice messaging system, or by electronic transmission by the corporation. Notice of regular or special meetings need not be given to any Director who signs a waiver of notice, a written consent to holding the meeting, or an approval of the minutes (either before or after the meeting), or who attends the meeting without protesting prior thereto or at its commencement, the lack of notice to that Director. All waivers, consents, and approvals shall be filed with the corporate records or made a part of the minutes of the meetings. 
 
 ### Section 7.12. Quorum at Meetings.
 
@@ -414,7 +422,7 @@ Any action required or permitted to be taken by the Board of Directors may be ta
 
 ### Section 7.16. Executive Committees.
 
-(a) The Board of Directors may create one or more committees to serve at its pleasure by resolution adopted by a majority of the number of Directors then in office when a quorum is present. Each committee shall consist of two (2) or more Directors appointed by a majority vote of the Directors then in office.
+(a) The Board of Directors may create one or more committees to serve at its pleasure by resolution adopted by a majority of the number of Directors then in office when a quorum is present. The members of each committee shall be appointed by a majority vote of the Directors then in office.
 
 (b) Any executive committee, to the extent provided in the resolution of the Board, shall have all the authority of the Board, except with respect to the following actions:
 
@@ -442,17 +450,17 @@ Any or all Directors may be removed without cause by the members. If the Corpora
 
 ### Section 7.19. Cause of Vacancies on Board.
 
-Vacancies on the Board of Directors shall exist on the death, resignation, termination of membership, or removal of a Director; whenever the authorized number of Directors is increased; whenever the Board declares an office vacant pursuant to Section 5.20 of these Bylaws; and on the failure of the members to elect the full number of Directors authorized.
+Vacancies on the Board of Directors shall exist on the death, resignation, termination of membership, or removal of a Director; whenever the authorized number of Directors is increased; whenever the Board declares an office vacant pursuant to Section 7.20 of these Bylaws; and on the failure of the members to elect the full number of Directors authorized.
 
 ### Section 7.20. Declaration of Vacancies.
 
-The Board of Directors may declare vacant the office of any Director whose eligibility for election has ceased, who has been declared of unsound mind by a final order of court, who is convicted of a felony, or who has not attended four or more consecutive regular or special meetings of the Board.
+The Board of Directors may declare vacant the office of any Director whose eligibility for election has ceased, who has been declared of unsound mind by a final order of court, who is convicted of a felony, or who has not attended three or more consecutive regular or special meetings of the Board.
 
 ### Section 7.21. Filling Vacancies on Board.
 
-Except for vacancies created by removal of a Director pursuant to Section 5.18 of these Bylaws, vacancies may be filled by a majority of the Directors then in office, whether or not less than a quorum, or by a sole remaining Director. Vacancies created by the removal of a Director may be filled only by approval (as defined by Section 12224 of the California Corporations Code) of the members. The members may elect a Director at any time to fill any vacancy not filled by the Directors.
+Except for vacancies created by removal of a Director pursuant to Section 7.18 of these Bylaws, vacancies may be filled by a majority of the Directors then in office, whether or not less than a quorum, or by a sole remaining Director. Vacancies created by the removal of a Director may be filled only by approval of the members (as defined by Coop Law Section 12224). The members may elect a Director at any time to fill any vacancy not filled by the Directors.
 
-## ARTICLE VIII. OFFICERS
+## Article VIII. Officers
 
 ### Section 8.01. Titles.
 
@@ -462,25 +470,25 @@ The officers of the Corporation shall be a President, Secretary, Chief Financial
 
 The officers shall be chosen by the Board of Directors and serve at the pleasure of the Board, subject to the rights, if any, of an officer under any contract of employment. Any officer may resign at any time on written notice to the Corporation without prejudice to the rights, if any, of the Corporation under any contract to which the officer is a party.
 
-## ARTICLE IX. CORPORATE RECORDS AND REPORTS
+## Article IX. Corporate Records and Reports
 
 ### Section 9.01. Required Records.
 
-The Corporation shall keep adequate and correct books and records of account and minutes of the proceedings of its members, Board of Directors, and committees of the Board. It shall also keep a record of the members, including the names, addresses, and number of shares held by each. The minutes shall be kept in written form. Other books and records shall be kept either in written form or in any other form capable of being converted into written form.
+The Corporation shall keep adequate and correct books and records of account and minutes of the proceedings of its members, Board of Directors, and committees of the Board. It shall also keep a record of the members, including the names, addresses, email addresses, and number of memberships held by each. The minutes and other books and records shall be kept either in written form or in any other form capable of being converted into written form.
 
 ### Section 9.02. Annual Report.
 
 (a) For fiscal years in which the Corporation has, at any time, more than twenty-five (25) members, the Corporation shall notify each member yearly of the member's right to receive an annual financial report. The Board of Directors shall promptly cause the most recent annual report to be sent to a member on written request. The annual report shall be prepared no later than one hundred twenty (120) days after the close of the Corporation's fiscal year.
 
-(b) The annual report shall contain in appropriate detail all of the following: (1) a balance sheet as of the end of the fiscal year, an income statement, and a statement of changes in financial position for the fiscal year; (2) a statement of the place where the names and addresses of the current members are located; and (3) the statement required by Section 9.03 of these Bylaws.
+(b) The annual report shall contain in appropriate detail all of the following: (1) a balance sheet as of the end of the fiscal year, an income statement, and a statement of cashflows for the fiscal year; (2) a statement of the place where the names and addresses of the current members are located; and (3) the statement required by Section 9.03 of these Bylaws.
 
 (c) The annual report shall be accompanied by any pertinent report by independent accountants, or, if there is no such report, by the certificate of an authorized officer of the Corporation that the statements were prepared without audit from the books and records of the Corporation.
 
 ### Section 9.03. Annual Statement of Transactions and Indemnifications.
 
-In addition to the annual report described in Section 9.02 of these Bylaws, the Corporation shall furnish annually (pursuant to Section 12592 of the California Corporations Code) to its members and Directors a statement of the transactions and indemnifications to interested persons. If the Corporation does not issue an annual report pursuant to Section 9.02 of these Bylaws, such statement shall be mailed or delivered to members within one hundred twenty (120) days after the close of the fiscal year.
+In addition to the annual report described in Section 9.02 of these Bylaws, the Corporation shall furnish annually (pursuant to Coop Law Section 12592) to its members and Directors a statement of the transactions and indemnifications to interested persons. If the Corporation does not issue an annual report pursuant to Section 9.02 of these Bylaws, such statement shall be mailed or delivered to members within one hundred twenty (120) days after the close of the fiscal year.
 
-## ARTICLE X. INSPECTION RIGHTS
+## Article X. Inspection Rights
 
 ### Section 10.01. Articles and Bylaws.
 
@@ -494,7 +502,7 @@ Every Director has the absolute right at any reasonable time to inspect and copy
 
 ### Section 10.03. Inspection of Membership List.
 
-(a) Subject to the Corporation's right to set aside a member's demand for inspection pursuant to Section 12601 of the California Corporations Code and the power of the court to limit inspection rights pursuant to Section 12602 of the California Corporations Code, and unless the Corporation provides a reasonable alternative pursuant to Section 10.03(c) of these Bylaws, a member may do either or both of the following:
+(a) Subject to the Corporation's right to set aside a member's demand for inspection pursuant to Coop Law Section 12601 and the power of the court to limit inspection rights pursuant to Coop Law Section 12602, and unless the Corporation provides a reasonable alternative pursuant to Section 10.03(c) of these Bylaws, a member may do either or both of the following:
 
    1. Inspect and copy the record of all the members' names, addresses, and voting rights, at reasonable times, on making a written demand five (5) business days in advance which states the purpose for which the inspection rights are requested;
 
@@ -504,11 +512,11 @@ Every Director has the absolute right at any reasonable time to inspect and copy
 
 (c) The Corporation may within ten (10) days after receiving a demand, deliver a written offer of an alternative method of achieving the purpose identified in the demand without providing access to or a copy of the membership list. An alternative method that reasonably and in a timely manner accomplishes the proper purpose set forth in a demand made pursuant to Section 10.03(a) of these Bylaws shall be a reasonable alternative, unless the Corporation fails to do the things that it offered to do within a reasonable time after acceptance of the offer. Any rejection of the offer shall be in writing and indicate the reasons the proposed alternative does not meet the proper purpose of the demand.
 
-## ARTICLE XI. SURPLUS ALLOCATIONS AND DISTRIBUTIONS
+## Article XI. Surplus Allocations and Distributions
 
 ### Section 11.01. Fiscal Year.
 
-The fiscal year of the Corporation shall end at the close of the business day on the last day of the month of January of each year.
+The fiscal year of the Corporation shall end at the close of the business day on the last day of the month of June of each year.
 
 ### Section 11.02. Surplus and Patronage Defined.
 
@@ -518,27 +526,21 @@ The fiscal year of the Corporation shall end at the close of the business day on
 
 ### Section 11.03. Annual Allocations and Distributions of Surplus.
 
-(a) Before any dividends or patronage refunds are distributed for each fiscal year, any surplus should first be allocated to any deficit in the accounting of "retained earnings" of the Corporation.
+(a) Before any patronage refunds are distributed for each fiscal year, any surplus should first be allocated to any deficit in the accounting of "retained earnings" of the Corporation.
 
-(b) After any deficit in retained earnings has been eliminated, the Board of Directors may declare a dividend upon shares at a rate not to exceed any maximum rate established by Section 12451 of the California Corporations Code (taking into account any other "distributions" as defined by Section 12235 of the California Corporations Code). No such dividends shall be cumulative.
+(b) The Directors may then uniformly distribute all the remaining surplus attributed to patronage of the members of the Corporation to such members as described in the following paragraphs of this subsection of these Bylaws. For the purposes of this subsection of the Bylaws, the remaining patronage surplus shall be computed consistent with Subchapter T of the Internal Revenue Code, related Treasury Regulations, and related court and other relevant interpretations.
 
-(c) The Directors may then uniformly distribute all the remaining surplus attributed to patronage of the members of the Corporation to such members as described in the following paragraphs of this subsection of these Bylaws. For the purposes of this subsection of the Bylaws, the remaining patronage surplus shall be computed consistent with Subchapter T of the Internal Revenue Code, related Treasury Regulations, and related court and other relevant interpretations.
-
-   1. Any remaining patronage surplus attributed to the members and to be distributed to them shall be the total remaining patronage surplus attributed to both member and nonmember business (not reduced by dividends on shares but reduced by allocations to eliminate a deficit in retained earnings) multiplied by the ratio of member patronage to total patronage.
+   1. Any remaining patronage surplus attributed to the members and to be distributed to them shall be the total remaining patronage surplus attributed to both member and nonmember business (reduced by allocations to eliminate a deficit in retained earnings) multiplied by the ratio of member patronage to total patronage.
 
    2. A member is entitled to a patronage refund, if such is distributed, in the amount of the remaining patronage surplus, as determined by Paragraph (1) of this subsection of these Bylaws, multiplied by the ratio of such member's patronage with the Corporation to the patronage of all members with the Corporation.
 
-(d) Any dividends declared or patronage refunds paid or allocated pursuant to this section of the Bylaws may be in the form of shares, in whole or in part, subject to Subsections (e) and (f) of this section of these Bylaws.
+(c) If a member owns three hundred dollars ($300.00) or more in memberships as of the end of the fiscal year for which patronage refunds are to be paid or allocated, such member shall receive all of her or his patronage refunds in cash. The three hundred dollar ($300.00) amount shall be known as a member's "Fair Share."
 
-(e) If a member owns three hundred dollars ($300.00) or more in shares as of the end of the fiscal year for which dividends are declared or patronage refunds are to be paid or allocated, such member shall receive all of her or his dividends and patronage refunds in cash. The three hundred dollar ($300.00) amount shall be known as a member's "Fair Share."
+(d) Each person who becomes a member of this Corporation consents to include in his or her gross income for federal income tax purposes the amount of any patronage refund paid to him or her by this Corporation in money or by written notice of allocation (as defined in the Internal Revenue Code), except to the extent that such a patronage refund is not income to the member because (i) it is attributable to the purchase of personal, living, or family items, or (ii) it should properly be treated as an adjustment to the tax basis of property previously purchased. The term "patronage refund," as used herein, shall have the same meaning as the term "patronage dividend," as used in the Internal Revenue Code.
 
-(f) If the cash payment to a member for such member's dividends and patronage refunds together would total less than one dollar ($1.00), the Board of Directors shall distribute such dividends and patronage refunds to the member wholly in shares.
+(e) For the purpose of allocating and distributing any annual surplus, the entire operations of the Corporation shall be considered as a unit; provided that by resolution of the Board of Directors, the Corporation may distribute patronage refunds on the basis of the business transacted by each of the departments or divisions into which the operations of the Corporation shall be divided by the Board for the purpose of such allocation.
 
-(g) Each person who becomes a member of this Corporation consents to include in his or her gross income for federal income tax purposes the amount of any patronage refund paid to him or her by this Corporation in money or by written notice of allocation (as defined in the Internal Revenue Code), except to the extent that such a patronage refund is not income to the member because (i) it is attributable to the purchase of personal, living, or family items, or (ii) it should properly be treated as an adjustment to the tax basis of property previously purchased. The term "patronage refund," as used herein, shall have the same meaning as the term "patronage dividend," as used in the Internal Revenue Code.
-
-(h) For the purpose of allocating and distributing any annual surplus, the entire operations of the Corporation shall be considered as a unit; provided that by resolution of the Board of Directors, the Corporation may distribute patronage refunds on the basis of the business transacted by each of the departments or divisions into which the operations of the Corporation shall be divided by the Board for the purpose of such allocation.
-
-## ARTICLE XII. BYLAW CHANGES
+## Article XII. Bylaw Changes
 
 ### Section 12.01. Bylaw Changes by the Board.
 
@@ -546,11 +548,11 @@ The Bylaws shall be adopted, amended, or repealed by the Board of Directors unle
 
 (a) materially and adversely affect the rights or obligations of members as to voting, dissolution, redemption transfer, distributions, patronage distributions, patronage, property rights, or rights to repayment of contributed capital;
 
-(b) increase or decrease the number of members or shares authorized in total or for any class;
+(b) increase or decrease the number of members or memberships authorized in total or for any class;
 
-(c) effect an exchange, reclassification, or cancellation of all or part of the memberships or shares;
+(c) effect an exchange, reclassification, or cancellation of all or part of the memberships;
 
-(d) authorize a new class of memberships or shares;
+(d) authorize a new class of memberships;
 
 (e) change the number of Directors or establish a variable number of Directors;
 
@@ -564,14 +566,24 @@ The Bylaws shall be adopted, amended, or repealed by the Board of Directors unle
 
 Where the Board of Directors is denied the right to adopt, amend, or repeal these Bylaws pursuant to Section 12.01 of these Bylaws, these Bylaws shall be adopted, amended, or repealed by approval of the members.
 
+## Article XIII. Indemnification
+
+### Section 13.01. Indemnification of Agents
+
+(a) To the fullest extent permitted by law, this corporation shall indemnify its directors, officers, employees, and other persons described in Coop Law Section 12377(a), including persons formerly occupying any such positions, against all expenses, judgments, fines, settlements, and other amounts actually and reasonably incurred by them in connection with any "proceeding," as that term is used in that section, and including an action by or in the right of the corporation, by reason of the fact that the person is or was a person described in that section. "Expenses," as used in this bylaw, shall have the same meaning as in that section of the Coop Law.
+
+(b) On written request to the board by any person seeking indemnification under Coop Law Section 12377(b) or Section 12377(c), the board shall promptly decide, per the procedure in Coop Law Section 12377(e), whether the applicable standard of conduct set forth in the corresponding section has been met and, if so, the board shall authorize indemnification.
+
+(c) If the board cannot authorize indemnification, because the number of directors who are parties to the proceeding with respect to which indemnification is sought prevents the formation of a quorum of directors who are not parties to that proceeding, the board shall promptly call a meeting of members. At that meeting, the members shall determine under Coop Law Section 12377(e) whether the applicable standard of conduct has been met and, if so, the members present at the meeting shall authorize indemnification.
+
 * * *
 
 CERTIFICATE OF SECRETARY OF IO COOPERATIVE
 
-I hereby certify that I am the duly elected and acting Secretary of this Corporation and that the foregoing Bylaws constitute the Bylaws of this Corporation, as duly adopted by the Board of Directors on September 12, 2012.
+I hereby certify that I am the duly elected and acting Secretary of this Corporation and that the foregoing Bylaws constitute the Bylaws of this Corporation, as duly adopted by the Board of Directors on December 14, 2012.
 
 
-Dated: December 11, 2012.
+Dated: December 14, 2012.
 
 
             [signature]
