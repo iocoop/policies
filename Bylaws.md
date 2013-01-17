@@ -1,4 +1,4 @@
-﻿## SUMMARIZED TABLE OF CONTENTS: BYLAWS OF IO COOPERATIVE
+## SUMMARIZED TABLE OF CONTENTS: BYLAWS OF IO COOPERATIVE, INC.
 
 ### Article I. Identity
 ### Article II. Purposes
@@ -14,7 +14,7 @@
 ### Article XII. Bylaw Changes
 ### Article XIII. Indemnification
 
-## DETAILED TABLE OF CONTENTS: BYLAWS OF IO COOPERATIVE
+## DETAILED TABLE OF CONTENTS: BYLAWS OF IO COOPERATIVE, INC.
 
 ### Article I. Identity
 
@@ -140,7 +140,7 @@
 
 ### Section 1.01. Name.
 
-The cooperative described in these Bylaws will be known as IO Cooperative, referred to, infra, as "the Cooperative."
+The cooperative described in these Bylaws will be known as IO Cooperative, Inc., referred to, infra, as "the Cooperative."
 
 ## Article II. Purposes
 
@@ -578,7 +578,7 @@ Where the Board of Directors is denied the right to adopt, amend, or repeal thes
 
 * * *
 
-CERTIFICATE OF SECRETARY OF IO COOPERATIVE
+CERTIFICATE OF SECRETARY OF IO COOPERATIVE, INC.
 
 I hereby certify that I am the duly elected and acting Secretary of this Corporation and that the foregoing Bylaws constitute the Bylaws of this Corporation, as duly adopted by the Board of Directors on December 14, 2012.
 
