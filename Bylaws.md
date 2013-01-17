@@ -53,6 +53,7 @@
 #### Section 5.02. Death or Dissolution.
 #### Section 5.03. Expulsion.
 #### Section 5.04. Settlement of Membership Interest.
+#### Section 5.05. Membership Interest Reserve.
 
 ### Article VI. Membership Meetings and Members
 
@@ -255,6 +256,10 @@ A membership will immediately terminate upon the death of a member or the dissol
 ### Section 5.04. Settlement of Membership Interest.
 
 If a membership is terminated for any reason set forth in this Article of the Bylaws, the membership interest held by the member must be purchased by the Corporation, subject to Section 4.12 of these Bylaws, within one year of the date of termination to the extent of the paid-up value of the member's membership on such date. The Board of Directors, in so settling the member's membership interest, may set off any and all indebtedness of the member to the Corporation. The paid-up value of the member's membership interest is the monetary amount of such interest (including fractional memberships) that the member has been issued in accordance with Section 4.08 of these Bylaws.
+
+### Section 5.05. Membership Interest Reserve.
+
+The Corporation must maintain sufficient funds (in addition to funds necessary to meet liabilities) to be able to purchase a proportion, as prescribed from time to time by the Board of Directors, but not less than 10%, of the total outstanding membership interest at any time.
 
 ## Article VI. Membership Meetings and Members
 
