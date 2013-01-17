@@ -140,17 +140,17 @@
 
 ### Section 1.01. Name.
 
-The cooperative described in these Bylaws will be known as IO Cooperative, Inc., referred to, infra, as "the Cooperative."
+The corporation described in these Bylaws will be known as IO Cooperative, Inc., referred to, infra, as "the Corporation."
 
 ## Article II. Purposes
 
 ### Section 2.01. Business.
 
-The primary purpose of the Cooperative is to engage in the business of selling server co-location, network connectivity, virtual hosting, and other technology products and services to its members, who will be the ultimate consumers of these products and services.
+The primary purpose of the Corporation is to engage in the business of selling server co-location, network connectivity, virtual hosting, and other technology products and services to its members, who will be the ultimate consumers of these products and services.
 
 ### Section 2.02. Other Objectives.
 
-Other objectives of the Cooperative include:
+Other objectives of the Corporation include:
 
 (a) Cooperative service for the benefit of its members and the public;
 
@@ -176,11 +176,11 @@ To the fullest extent possible, "written" or "in writing" in these Bylaws includ
 
 ### Section 4.01. Classification of Members.
 
-The Cooperative shall have one class of members.
+The Corporation shall have one class of members.
 
 ### Section 4.02. Membership Qualifications.
 
-Any natural person or organization (except a subsidiary of the Cooperative), who supports the values, vision, and mission of the Cooperative, and is prepared to accept the responsibilities of membership, may become and remain a member of the Cooperative by:
+Any natural person or organization (except a subsidiary of the Corporation), who supports the values, vision, and mission of the Corporation, and is prepared to accept the responsibilities of membership, may become and remain a member of the Corporation by:
 
 (a) Complying with such uniform conditions as may be prescribed by the Board of Directors;
 
@@ -190,7 +190,7 @@ Any natural person or organization (except a subsidiary of the Cooperative), who
 
 ### Section 4.03. Membership Application.
 
-An applicant eligible for and desiring admission in the Cooperative must file a written application for admission in whatever form and containing whatever information the the Board of Directors may prescribe.
+An applicant eligible for and desiring admission in the Corporation must file a written application for admission in whatever form and containing whatever information the the Board of Directors may prescribe.
 
 ### Section 4.04. Acceptance of Members.
 
@@ -202,7 +202,7 @@ No member may transfer his or her membership or any right arising therefrom.
 
 ### Section 4.06. Membership Fee.
 
-A one-time, nonrefundable membership fee, in an amount set from time to time by the Board of Directors, may be charged and collected from each member upon joining the Cooperative.
+A one-time, nonrefundable membership fee, in an amount set from time to time by the Board of Directors, may be charged and collected from each member upon joining the Corporation.
 
 ### Section 4.07. Bylaws and Disclosures.
 
@@ -214,31 +214,31 @@ Memberships may be issued for money paid in an amount and on terms determined fr
 
 ### Section 4.09. Membership Ownership.
 
-Membership ownership entitles a member to only one vote in the affairs of the Cooperative, and to all the rights of membership as described by statute, the Articles of Incorporation, and these Bylaws. The Cooperative will not pay dividends on memberships.
+Membership ownership entitles a member to only one vote in the affairs of the Corporation, and to all the rights of membership as described by statute, the Articles of Incorporation, and these Bylaws. The Corporation will not pay dividends on memberships.
 
 ### Section 4.10. Membership Receipt and Disclosures.
 
-(a) Pursuant to Coop Law Section 12401, prior to issuing a membership, the Cooperative will provide a written disclosure to the purchaser, containing all information required by the statute, in one of its prescribed forms.
+(a) Pursuant to Coop Law Section 12401, prior to issuing a membership, the Corporation will provide a written disclosure to the purchaser, containing all information required by the statute, in one of its prescribed forms.
 
-(b) The Cooperative will issue a receipt or written advice of purchase to anyone purchasing a membership.
+(b) The Corporation will issue a receipt or written advice of purchase to anyone purchasing a membership.
 
 ### Section 4.11. Prohibition on Transfer of Memberships.
 
-No memberships of this Cooperative may be assigned or transferred. Any attempted assignment or transfer shall be wholly void and shall confer no rights on the intended assignee or transferee.
+No memberships of this Corporation may be assigned or transferred. Any attempted assignment or transfer shall be wholly void and shall confer no rights on the intended assignee or transferee.
 
 ### Section 4.12. Insolvency Delay.
 
-The Cooperative will delay the purchase of memberships as described in section 5.04 of these Bylaws if the Cooperative, in making such purchase is, or as a result thereof would be, likely to be unable to meet its liabilities (except those whose payment is otherwise adequately provided for) as they mature.
+The Corporation will delay the purchase of memberships as described in section 5.04 of these Bylaws if the Corporation, in making such purchase is, or as a result thereof would be, likely to be unable to meet its liabilities (except those whose payment is otherwise adequately provided for) as they mature.
 
 ### Section 4.13. Unclaimed Equity Interests.
 
-Any membership of a member, together with any accrued and unpaid patronage distributions related to that member, that would otherwise escheat to the State of California as unclaimed personal property, shall instead become the property of the Cooperative if the Cooperative gives at least sixty days' prior notice of the proposed transfer to the affected member by (1) first-class or second-class mail to the last address of the member shown on the Cooperative's records, and (2) by publication in a newspaper of general circulation in the county in which the Cooperative has its principal office. No memberships or amounts shall become the property of the Cooperative under this section of the Bylaws if written notice objecting to the transfer is received by the Cooperative from the affected member prior to the date of the proposed transfer.
+Any membership of a member, together with any accrued and unpaid patronage distributions related to that member, that would otherwise escheat to the State of California as unclaimed personal property, shall instead become the property of the Corporation if the Corporation gives at least sixty days' prior notice of the proposed transfer to the affected member by (1) first-class or second-class mail to the last address of the member shown on the Corporation's records, and (2) by publication in a newspaper of general circulation in the county in which the Corporation has its principal office. No memberships or amounts shall become the property of the Corporation under this section of the Bylaws if written notice objecting to the transfer is received by the Corporation from the affected member prior to the date of the proposed transfer.
 
 ## Article V. Termination of Membership
 
 ### Section 5.01. Voluntary Withdrawal.
 
-A member shall have the right to resign from the Cooperative and terminate his or her membership by filing with the Secretary of the Cooperative a written notice of resignation. The resignation shall become effective immediately without any action on the part of the Cooperative.
+A member shall have the right to resign from the Corporation and terminate his or her membership by filing with the Secretary of the Corporation a written notice of resignation. The resignation shall become effective immediately without any action on the part of the Corporation.
 
 ### Section 5.02. Death or Dissolution.
 
@@ -246,21 +246,21 @@ A membership shall immediately terminate upon the death of a member or the disso
 
 ### Section 5.03. Expulsion.
 
-(a) A member may, for failure to comply with these Bylaws, rules, or regulations of the Cooperative, for failure to patronize the Corporation during the immediately preceding fiscal year of the Corporation in the amount of at least fifty dollars ($50.00), or for any other justifiable reason, including refusal to repay debt owed to the Cooperative, be expelled from the Cooperative by resolution adopted by a two-thirds vote of all members of the Board of Directors. Expulsion shall become effective immediately unless the Board shall, in the resolution, fix another time. On expulsion, the name of the member expelled shall be stricken from the membership register and all of his or her rights shall cease except as provided in Section 5.04 of these Bylaws.
+(a) A member may, for failure to comply with these Bylaws, rules, or regulations of the Corporation, for failure to patronize the Corporation during the immediately preceding fiscal year of the Corporation in the amount of at least fifty dollars ($50.00), or for any other justifiable reason, including refusal to repay debt owed to the Corporation, be expelled from the Corporation by resolution adopted by a two-thirds vote of all members of the Board of Directors. Expulsion shall become effective immediately unless the Board shall, in the resolution, fix another time. On expulsion, the name of the member expelled shall be stricken from the membership register and all of his or her rights shall cease except as provided in Section 5.04 of these Bylaws.
 
 (b) Prior to expulsion of a member, the Board of Directors shall give such member at least fifteen days notice prior thereto and the reasons thereof. Such member shall have the opportunity to be heard, orally or in writing, not less than five days before the effective date of expulsion by the Board.
 
-(c) The notice required pursuant to subsection (b) of this section of these Bylaws may be given by any method reasonably calculated to provide actual notice. Any notice given by mail must be given by first-class or registered mail sent to the last known address of the member shown on the Cooperative's records.
+(c) The notice required pursuant to subsection (b) of this section of these Bylaws may be given by any method reasonably calculated to provide actual notice. Any notice given by mail must be given by first-class or registered mail sent to the last known address of the member shown on the Corporation's records.
 
 ### Section 5.04. Settlement of Membership Interest.
 
-If a membership is terminated for any reason set forth in this Article of the Bylaws, the membership interest held by the member shall be purchased by the Cooperative, subject to Section 4.12 of these Bylaws, within one year of the date of termination to the extent of the paid-up value of the member's membership on such date. The Board of Directors, in so settling the member's membership interest, shall have the right to set off any and all indebtedness of the member to the Cooperative. The paid-up value of the member's membership interest is the monetary amount of such interest (including fractional memberships) that the member has been issued in accordance with Section 4.08 of these Bylaws.
+If a membership is terminated for any reason set forth in this Article of the Bylaws, the membership interest held by the member shall be purchased by the Corporation, subject to Section 4.12 of these Bylaws, within one year of the date of termination to the extent of the paid-up value of the member's membership on such date. The Board of Directors, in so settling the member's membership interest, shall have the right to set off any and all indebtedness of the member to the Corporation. The paid-up value of the member's membership interest is the monetary amount of such interest (including fractional memberships) that the member has been issued in accordance with Section 4.08 of these Bylaws.
 
 ## Article VI. Membership Meetings and Members
 
 ### Section 6.01. Location.
 
-Meetings of members shall be held either by electronic transmission by and to the Cooperative, as authorized by Coop Law Section 12460(f), or at a location designated by the board.
+Meetings of members shall be held either by electronic transmission by and to the Corporation, as authorized by Coop Law Section 12460(f), or at a location designated by the board.
 
 ### Section 6.02. Regular Annual Meetings.
 
@@ -364,7 +364,7 @@ The corporation shall have no fewer than three and no more than nine Directors, 
 
 ### Section 7.02. Qualifications.
 
-Any natural person eligible to join the Cooperative may serve on the Board of Directors.
+Any natural person eligible to join the Corporation may serve on the Board of Directors.
 
 ### Section 7.03. Nomination.
 
@@ -522,7 +522,7 @@ The fiscal year of the Corporation shall end at the close of the business day on
 
 (a) "Surplus" shall be defined as the excess of revenues and gains over expenses and losses for a fiscal year. Such surplus shall be determined in accordance with generally accepted accounting principles and shall be computed without regard to any patronage refunds, capital allocations, dividends, or income taxes.
 
-(b) "Patronage" shall be defined as payment of charges for services provided by the Cooperative.
+(b) "Patronage" shall be defined as payment of charges for services provided by the Corporation.
 
 ### Section 11.03. Annual Allocations and Distributions of Surplus.
 
@@ -570,11 +570,11 @@ Where the Board of Directors is denied the right to adopt, amend, or repeal thes
 
 ### Section 13.01. Indemnification of Agents
 
-(a) To the fullest extent permitted by law, this corporation shall indemnify its directors, officers, employees, and other persons described in Coop Law Section 12377(a), including persons formerly occupying any such positions, against all expenses, judgments, fines, settlements, and other amounts actually and reasonably incurred by them in connection with any "proceeding," as that term is used in that section, and including an action by or in the right of the corporation, by reason of the fact that the person is or was a person described in that section. "Expenses," as used in this bylaw, shall have the same meaning as in that section of the Coop Law.
+(a) To the fullest extent permitted by law, the Corporation shall indemnify its directors, officers, employees, and other persons described in Coop Law Section 12377(a), including persons formerly occupying any such positions, against all expenses, judgments, fines, settlements, and other amounts actually and reasonably incurred by them in connection with any "proceeding," as that term is used in that section, and including an action by or in the right of the Corporation, by reason of the fact that the person is or was a person described in that section. "Expenses," as used in this bylaw, shall have the same meaning as in that section of the Coop Law.
 
-(b) On written request to the board by any person seeking indemnification under Coop Law Section 12377(b) or Section 12377(c), the board shall promptly decide, per the procedure in Coop Law Section 12377(e), whether the applicable standard of conduct set forth in the corresponding section has been met and, if so, the board shall authorize indemnification.
+(b) On written request to the Board of Directors by any person seeking indemnification under Coop Law Section 12377(b) or Section 12377(c), the Board shall promptly decide, per the procedure in Coop Law Section 12377(e), whether the applicable standard of conduct set forth in the corresponding section has been met and, if so, the Board shall authorize indemnification.
 
-(c) If the board cannot authorize indemnification, because the number of directors who are parties to the proceeding with respect to which indemnification is sought prevents the formation of a quorum of directors who are not parties to that proceeding, the board shall promptly call a meeting of members. At that meeting, the members shall determine under Coop Law Section 12377(e) whether the applicable standard of conduct has been met and, if so, the members present at the meeting shall authorize indemnification.
+(c) If the Board of Directors cannot authorize indemnification, because the number of directors who are parties to the proceeding with respect to which indemnification is sought prevents the formation of a quorum of directors who are not parties to that proceeding, the Board shall promptly call a meeting of members. At that meeting, the members shall determine under Coop Law Section 12377(e) whether the applicable standard of conduct has been met and, if so, the members present at the meeting shall authorize indemnification.
 
 * * *
 
