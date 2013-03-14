@@ -247,7 +247,7 @@ A membership will immediately terminate upon the death of a member or the dissol
 
 ### Section 5.03. Expulsion.
 
-(a) A member may, for failure to comply with these Bylaws, rules, or regulations of the Corporation, for failure to patronize the Corporation during the immediately preceding fiscal year of the Corporation in the amount of at least fifty dollars ($50.00), or for any other justifiable reason, including refusal to repay debt owed to the Corporation, be expelled from the Corporation by resolution adopted by a two-thirds vote of all members of the Board of Directors. Expulsion will become effective immediately unless the Board may, in the resolution, fix another time. On expulsion, the name of the member expelled must be stricken from the membership register and all of his or her rights will cease except as provided in Section 5.04 of these Bylaws.
+(a) A member may, for failure to comply with these Bylaws, rules, or regulations of the Corporation, for failure to patronize the Corporation during the immediately preceding fiscal year of the Corporation in the amount of at least fifty dollars ($50.00), or for any other justifiable reason, including refusal to repay debt owed to the Corporation, be expelled from the Corporation by resolution adopted by a two-thirds vote of all members of the Board of Directors. Expulsion will become effective immediately unless the Board fixes another time in the resolution. On expulsion, the name of the member expelled must be stricken from the membership register and all of his or her rights will cease except as provided in Section 5.04 of these Bylaws.
 
 (b) Prior to expulsion of a member, the Board of Directors must give such member at least fifteen days notice prior thereto and the reasons thereof. Such member must have the opportunity to be heard, orally or in writing, not less than five days before the effective date of expulsion by the Board.
 
@@ -281,7 +281,7 @@ Whenever members are required or permitted to take action at a meeting, a writte
 
 ### Section 6.05. Method of Giving Notice.
 
-Notice may be given either personally, by electronic transmission by the corporation, or by mail or other means of written communication to the address of a member appearing on the books of the Corporation or provided by the member. If no address appears or is given, notice must be given at the principal office of the Corporation. 
+Notice may be given either personally, by electronic transmission by the corporation, or by mail or other means of written communication to the address of a member appearing on the books of the Corporation or provided by the member. If no address appears or is given, notice must be given at the principal office of the Corporation.
 
 ### Section 6.06. Record Date for Notice.
 
@@ -321,9 +321,9 @@ The corporation may transact any business at an adjourned meeting that could hav
 
 (c) The record date for determining the members entitled to vote at a meeting or cast written ballots is twenty (20) days before the date of the meeting or the day on which the first ballot is mailed or solicited.
 
-(d) Cumulative voting may not be permitted for any purpose.
+(d) Cumulative voting will not be permitted for any purpose.
 
-(e) Voting by proxy may not be permitted for any purpose.
+(e) Voting by proxy will not be permitted for any purpose.
 
 ### Section 6.14. Use of Written or Electronic Ballots at Meetings.
 
@@ -373,7 +373,7 @@ Any natural person eligible to join the Corporation may serve on the Board of Di
 
 ### Section 7.03. Nomination.
 
-(a) The Board of Directors may prescribe reasonable nomination and election procedures for the election of Directors given the nature, size, and operations of the Corporation. The procedures must include: (1) a reasonable means of nominating persons for election as Directors, (2) a reasonable opportunity for a nominee to communicate the nominee's qualifications and the reasons for the nominee's candidacy to the members, (3) a reasonable opportunity for all nominees to solicit votes, (4) a reasonable opportunity for all the members to choose among the nominees.
+(a) The Board of Directors will prescribe reasonable nomination and election procedures for the election of Directors given the nature, size, and operations of the Corporation. The procedures must include: (1) a reasonable means of nominating persons for election as Directors, (2) a reasonable opportunity for a nominee to communicate the nominee's qualifications and the reasons for the nominee's candidacy to the members, (3) a reasonable opportunity for all nominees to solicit votes, (4) a reasonable opportunity for all the members to choose among the nominees.
 
 (b) When the Corporation distributes any material soliciting a vote for any nominee for Director in any publication owned or controlled by the Corporation, it must make available to each other nominee, in the same material, an equal amount or space with equal prominence to be used by the nominee for a purpose reasonably related to the election. The Corporation must mail within ten (10) business days to all members any material related to the election which a nominee for Director has furnished, upon written request and payment of mailing costs by the nominee, or allow the nominee to obtain the names, addresses, and voting rights of members within five (5) business days after the request.
 
@@ -473,7 +473,7 @@ The officers of the Corporation must be a President, Secretary, Chief Financial 
 
 ### Section 8.02. Appointment and Resignation.
 
-The officers may be chosen by the Board of Directors and serve at the pleasure of the Board, subject to the rights, if any, of an officer under any contract of employment. Any officer may resign at any time on written notice to the Corporation without prejudice to the rights, if any, of the Corporation under any contract to which the officer is a party.
+The officers will be chosen by the Board of Directors and serve at the pleasure of the Board, subject to the rights, if any, of an officer under any contract of employment. Any officer may resign at any time on written notice to the Corporation without prejudice to the rights, if any, of the Corporation under any contract to which the officer is a party.
 
 ## Article IX. Corporate Records and Reports
 
@@ -575,20 +575,20 @@ Where the Board of Directors is denied the right to adopt, amend, or repeal thes
 
 ### Section 13.01. Indemnification of Agents
 
-(a) To the fullest extent permitted by law, the Corporation may indemnify its directors, officers, employees, and other persons described in Coop Law Section 12377(a), including persons formerly occupying any such positions, against all expenses, judgments, fines, settlements, and other amounts actually and reasonably incurred by them in connection with any "proceeding," as that term is used in that section, and including an action by or in the right of the Corporation, by reason of the fact that the person is or was a person described in that section. "Expenses," as used in this bylaw, will have the same meaning as in that section of the Coop Law.
+(a) To the fullest extent permitted by law, the Corporation will indemnify its directors, officers, employees, and other persons described in Coop Law Section 12377(a), including persons formerly occupying any such positions, against all expenses, judgments, fines, settlements, and other amounts actually and reasonably incurred by them in connection with any "proceeding," as that term is used in that section, and including an action by or in the right of the Corporation, by reason of the fact that the person is or was a person described in that section. "Expenses," as used in this bylaw, will have the same meaning as in that section of the Coop Law.
 
-(b) On written request to the Board of Directors by any person seeking indemnification under Coop Law Section 12377(b) or Section 12377(c), the Board must promptly decide, per the procedure in Coop Law Section 12377(e), whether the applicable standard of conduct set forth in the corresponding section has been met and, if so, the Board may authorize indemnification.
+(b) On written request to the Board of Directors by any person seeking indemnification under Coop Law Section 12377(b) or Section 12377(c), the Board must promptly decide, per the procedure in Coop Law Section 12377(e), whether the applicable standard of conduct set forth in the corresponding section has been met and, if so, the Board will authorize indemnification.
 
-(c) If the Board of Directors cannot authorize indemnification, because the number of directors who are parties to the proceeding with respect to which indemnification is sought prevents the formation of a quorum of directors who are not parties to that proceeding, the Board must promptly call a meeting of members. At that meeting, the members must determine under Coop Law Section 12377(e) whether the applicable standard of conduct has been met and, if so, the members present at the meeting may authorize indemnification.
+(c) If the Board of Directors cannot authorize indemnification, because the number of directors who are parties to the proceeding with respect to which indemnification is sought prevents the formation of a quorum of directors who are not parties to that proceeding, the Board must promptly call a meeting of members. At that meeting, the members must determine under Coop Law Section 12377(e) whether the applicable standard of conduct has been met and, if so, the members present at the meeting will authorize indemnification.
 
 * * *
 
 CERTIFICATE OF SECRETARY OF IO COOPERATIVE, INC.
 
-I hereby certify that I am the duly elected and acting Secretary of this Corporation and that the foregoing Bylaws constitute the Bylaws of this Corporation, as duly adopted by the Board of Directors on December 14, 2012.
+I hereby certify that I am the duly elected and acting Secretary of this Corporation and that the foregoing Bylaws constitute the Bylaws of this Corporation, as duly adopted by the Board of Directors on February 13, 2013.
 
 
-Dated: December 14, 2012.
+Dated: February 13, 2013.
 
 
             [signature]
