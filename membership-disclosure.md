@@ -1,24 +1,26 @@
-## MEMBERSHIP DISCLOSURE DOCUMENT FOR IO COOPERATIVE, INC.
+# Membership Disclosure Document for IO Cooperative, Inc.
 
-### 1. Cooperative Status
+[TOC]
+
+## 1. Cooperative Status
 
 IO Cooperative, Inc. is a cooperative corporation organized under the Consumer Cooperative Corporation Law of California.
 
-### 2. Copy of Articles and Bylaws
+## 2. Copy of Articles and Bylaws
 
 A copy of the Corporation's Articles of Incorporation and its Bylaws will be furnished without charge to each member or prospective member upon written request. Requests should be sent via electronic mail to [support@iocoop.org][].
 
    [support@iocoop.org]: mailto:support@iocoop.org
 
-### 3. Assignment or Transfer
+## 3. Assignment or Transfer
 
 No share or membership of this corporation may be assigned or transferred. Any attempted assignment or transfer will be wholly void and will confer no rights on the intended assignee or transferee. (See Bylaw Section 4.11.)
 
-### 4. Membership Fee
+## 4. Membership Fee
 
 A one-time nonrefundable membership fee, in an amount to be set from time to time by the Board of Directors, may be charged to and collected from each member upon joining the Corporation. (See Bylaw Section 4.06).
 
-### 5. Termination of Membership
+## 5. Termination of Membership
 
 Sections 5.01 through 5.04 of the Bylaws of the Corporation provide as follows:
 
@@ -42,7 +44,7 @@ Sections 5.01 through 5.04 of the Bylaws of the Corporation provide as follows:
 > 
 > If a membership is terminated for any reason set forth in this Article of the Bylaws, the membership interest held by the member must be purchased by the Corporation, subject to Section 4.12 of these Bylaws, within one year of the date of termination to the extent of the paid-up value of the member's membership on such date. The Board of Directors, in so settling the member's membership interest, may set off any and all indebtedness of the member to the Corporation. The paid-up value of the member's membership interest is the monetary amount of such interest (including fractional memberships) that the member has been issued in accordance with Section 4.08 of these Bylaws.
 
-### 6. Member's Proprietary Interest
+## 6. Member's Proprietary Interest
 
 Membership in the Corporation is not an investment, and members will never be paid dividends on memberships. A member's proprietary interest in the Corporation is limited to the unredeemed total of money received by the Corporation in exchange for all memberships purchased by such member. (See Article 4 of the Articles of Incorporation and Bylaw Sections 4.08, 4.09, 5.04, and 11.03.) A member or former member's proprietary interest does not include amounts transferred to the Corporation pursuant to section 4.13 of the Bylaws (related to "unclaimed" equity interests).
 

@@ -1,139 +1,24 @@
-## SUMMARIZED TABLE OF CONTENTS: BYLAWS OF IO COOPERATIVE, INC.
+# Bylaws of IO Cooperative, Inc.
 
-### Article I. Identity
-### Article II. Purposes
-### Article III. Definitions
-### Article IV. Membership
-### Article V. Termination of Membership
-### Article VI. Membership Meetings and Members
-### Article VII. Directors
-### Article VIII. Officers
-### Article IX. Corporate Records and Reports
-### Article X. Inspection Rights
-### Article XI. Surplus Allocations and Distributions
-### Article XII. Bylaw Changes
-### Article XIII. Indemnification
+## Summarized Table of Contents
 
-## DETAILED TABLE OF CONTENTS: BYLAWS OF IO COOPERATIVE, INC.
+* [Article I. Identity](#article-i-identity)
+* [Article II. Purposes](#article-ii-purposes)
+* [Article III. Definitions](#article-iii-definitions)
+* [Article IV. Membership](#article-iv-membership)
+* [Article V. Termination of Membership](#article-v-termination-of-membership)
+* [Article VI. Membership Meetings and Members](#article-vi-membership-meetings-and-members)
+* [Article VII. Directors](#article-vii-directors)
+* [Article VIII. Officers](#article-viii-officers)
+* [Article IX. Corporate Records and Reports](#article-ix-corporate-records-and-reports)
+* [Article X. Inspection Rights](#article-x-inspection-rights)
+* [Article XI. Surplus Allocations and Distributions](#article-xi-surplus-allocations-and-distributions)
+* [Article XII. Bylaw Changes](#article-xii-bylaw-changes)
+* [Article XIII. Indemnification](#article-xiii-indemnification)
 
-### Article I. Identity
+## Detailed Table of Contents
 
-#### Section 1.01. Name.
-
-### Article II. Purposes
-
-#### Section 2.01. Business.
-#### Section 2.02. Other Objectives.
-
-### Article III. Definitions
-
-#### Section 3.01. Governing Law.
-#### Section 3.02. Electronic Communications.
-#### Section 3.03. Shareholders and Members.
-
-### Article IV. Membership
-
-#### Section 4.01. Classification of Members.
-#### Section 4.02. Membership Qualifications.
-#### Section 4.03. Membership Application.
-#### Section 4.04. Acceptance of Members.
-#### Section 4.05. Transfers Prohibited.
-#### Section 4.06. Membership Fee.
-#### Section 4.07. Bylaws and Disclosures.
-#### Section 4.08. Membership Issuance.
-#### Section 4.09. Membership Ownership.
-#### Section 4.10. Membership Receipt and Disclosures.
-#### Section 4.11. Prohibition on Transfer of Memberships.
-#### Section 4.12. Insolvency Delay.
-#### Section 4.13. Unclaimed Equity Interests.
-
-### Article V. Termination of Membership
-
-#### Section 5.01. Voluntary Withdrawal.
-#### Section 5.02. Death or Dissolution.
-#### Section 5.03. Expulsion.
-#### Section 5.04. Settlement of Membership Interest.
-#### Section 5.05. Membership Interest Reserve.
-
-### Article VI. Membership Meetings and Members
-
-#### Section 6.01. Location.
-#### Section 6.02. Regular Annual Meetings.
-#### Section 6.03. Special Meetings.
-#### Section 6.04. Time for Notice of Meetings.
-#### Section 6.05. Method of Giving Notice.
-#### Section 6.06. Record Date for Notice.
-#### Section 6.07. Contents of Notice.
-#### Section 6.08. Waivers, Consents, and Approvals.
-#### Section 6.09. Quorum at Meeting.
-#### Section 6.10. Loss of Quorum at Meeting.
-#### Section 6.11. Adjournment for Lack of Quorum.
-#### Section 6.12. Adjourned Meetings.
-#### Section 6.13. Voting of Memberships.
-#### Section 6.14. Use of Written or Electronic Ballots at Meetings.
-#### Section 6.15. Contents of Written or Electronic Ballot Used at Meetings.
-#### Section 6.16. Action by Ballot without Meeting.
-#### Section 6.17. Written or Electronic Ballot Used without Meeting.
-#### Section 6.18. Solicitation of Written or Electronic Ballots.
-#### Section 6.19. Withholding Vote.
-#### Section 6.20. Appointment of Inspectors of Election.
-#### Section 6.21. Duties of Inspectors of Election.
-
-### Article VII. Directors
-
-#### Section 7.01. Number.
-#### Section 7.02. Qualifications.
-#### Section 7.03. Nomination.
-#### Section 7.04. Election.
-#### Section 7.05. Terms of Office.
-#### Section 7.06. Compensation.
-#### Section 7.07. Call of Meetings.
-#### Section 7.08. Place of Meetings.
-#### Section 7.09. Presence at Meetings.
-#### Section 7.10. Regular Meetings.
-#### Section 7.11. Special Meetings and Notice.
-#### Section 7.12. Quorum at Meetings.
-#### Section 7.13. Acts of Board at Meetings.
-#### Section 7.14. Adjournment of Meetings.
-#### Section 7.15. Action without Meeting.
-#### Section 7.16. Executive Committees.
-#### Section 7.17. Resignation of Directors.
-#### Section 7.18. Removal of Directors.
-#### Section 7.19. Cause of Vacancies on Board.
-#### Section 7.20. Declaration of Vacancies.
-#### Section 7.21. Filling Vacancies on Board.
-
-### Article VIII. Officers
-
-#### Section 8.01. Titles.
-#### Section 8.02. Appointment and Resignation.
-
-### Article IX. Corporate Records and Reports
-
-#### Section 9.01. Required Records.
-#### Section 9.02. Annual Report.
-#### Section 9.03. Annual Statement of Transactions and Indemnifications.
-
-### Article X. Inspection Rights
-
-#### Section 10.01. Articles and Bylaws.
-#### Section 10.02. Books and Records.
-#### Section 10.03. Inspection of Membership List.
-
-### Article XI. Surplus Allocations and Distributions
-
-#### Section 11.01. Fiscal Year.
-#### Section 11.02. Surplus and Patronage Defined.
-#### Section 11.03. Annual Allocations and Distributions of Surplus.
-
-### Article XII. Bylaw Changes
-
-#### Section 12.01. Bylaw Changes by the Board.
-#### Section 12.02. Bylaw Changes by the Members.
-
-### Article XIII. Indemnification
-
-#### Section 13.01. Indemnification of Agents
+[TOC]
 
 * * *
 

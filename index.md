@@ -1,4 +1,4 @@
-## IO Cooperative Policies
+# IO Cooperative Policies
 
 Member documents:
 
