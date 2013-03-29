@@ -1,4 +1,4 @@
-# Terms of Service
+Title: Terms of Service
 
 All customers are bound by our terms of service.
 

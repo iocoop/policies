@@ -1,4 +1,4 @@
-# Anti-Spam Policy
+Title: Anti-Spam Policy
 
 ## Definition
 

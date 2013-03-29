@@ -1,4 +1,4 @@
-# Privacy Policy
+Title: Privacy Policy
 
 We will not share your data with external entities except as required by law or in the normal course of doing business. For example, we will disclose information about you (but not more than necessary) in the process of posting charges or credits to your credit card. We will also cooperate with legitimate law enforcement requests as required by law.
 

@@ -1,4 +1,4 @@
-# Bylaws of IO Cooperative, Inc.
+Title: Bylaws of IO Cooperative, Inc.
 
 ## Summarized Table of Contents
 

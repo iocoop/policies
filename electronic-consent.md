@@ -1,4 +1,4 @@
-# Consent and Notice Regarding Electronic Communications for IO Cooperative, Inc.
+Title: Consent and Notice Regarding Electronic Communications for IO Cooperative, Inc.
 
 [TOC]
 

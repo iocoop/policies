@@ -1,4 +1,4 @@
-# Security Policy
+Title: Security Policy
 
 We will make our best efforts at all times to maintain the security and integrity of our services and data, as well as the data you entrust to our safekeeping.
 

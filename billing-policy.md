@@ -1,4 +1,4 @@
-# Billing Policy
+Title: Billing Policy
 
 This page documents our policies. If you have a billing question, [billing@iocoop.org][] is the best point of contact.
 

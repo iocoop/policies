@@ -1,4 +1,4 @@
-# Membership Disclosure Document for IO Cooperative, Inc.
+Title: Membership Disclosure Document for IO Cooperative, Inc.
 
 [TOC]
 
