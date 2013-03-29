@@ -335,7 +335,7 @@ Any written ballot used at a meeting must set forth the proposed action to be ta
 
 ### Section 6.16. Action by Ballot without Meeting.
 
-Any action that may be taken at any regular or special meeting, including election of Directors, may be taken without a meeting through distribution of a written or electronic ballot to every member entitled to vote on the matter. The Secretary must cause a vote to be taken by written or electronic ballot on any action or recommendation proposed in writing by at least twenty percent (20%) of the members. 
+Any action that may be taken at any regular or special meeting, including election of Directors, may be taken without a meeting through distribution of a written or electronic ballot to every member entitled to vote on the matter. The Secretary must cause a vote to be taken by written or electronic ballot on any action or recommendation proposed in writing by at least twenty percent (20%) of the members.
 
 ### Section 6.17. Written or Electronic Ballot Used without Meeting.
 
@@ -407,7 +407,7 @@ Regular meetings of the Board of Directors must be held, without call or notice,
 
 ### Section 7.11. Special Meetings and Notice.
 
-Special meetings may be held upon four (4) days' notice by first-class mail or forty-eight (48) hours notice delivered personally or by telephone, including a voice messaging system, or by electronic transmission by the corporation. Notice of regular or special meetings need not be given to any Director who signs a waiver of notice, a written consent to holding the meeting, or an approval of the minutes (either before or after the meeting), or who attends the meeting without protesting prior thereto or at its commencement, the lack of notice to that Director. All waivers, consents, and approvals must be filed with the corporate records or made a part of the minutes of the meetings. 
+Special meetings may be held upon four (4) days' notice by first-class mail or forty-eight (48) hours notice delivered personally or by telephone, including a voice messaging system, or by electronic transmission by the corporation. Notice of regular or special meetings need not be given to any Director who signs a waiver of notice, a written consent to holding the meeting, or an approval of the minutes (either before or after the meeting), or who attends the meeting without protesting prior thereto or at its commencement, the lack of notice to that Director. All waivers, consents, and approvals must be filed with the corporate records or made a part of the minutes of the meetings.
 
 ### Section 7.12. Quorum at Meetings.
 
