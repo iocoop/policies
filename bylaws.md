@@ -254,7 +254,7 @@ The corporation must have no fewer than three and no more than nine Directors, c
 
 ### Section 7.02. Qualifications.
 
-Any natural person eligible to join the Corporation may serve on the Board of Directors.
+The Directors of the Corporation must be members of the Corporation.
 
 ### Section 7.03. Nomination.
 
