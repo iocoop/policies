@@ -70,7 +70,7 @@ Any natural person or organization (except a subsidiary of the Corporation), who
 
 (a) Complying with such uniform conditions as may be prescribed by the Board of Directors;
 
-(b) Making full payment of any nonrefundable membership fee as authorized in section 4.06 of these Bylaws; and
+(b) --- Intentionally left blank ---
 
 (c) Making payment for one membership, either in full, or in accordance with a payment schedule established under section 4.08 of these Bylaws.
 
@@ -80,15 +80,13 @@ An applicant eligible for and desiring admission in the Corporation must file a 
 
 ### Section 4.04. Acceptance of Members.
 
-Applications for membership will be reviewed by the Board of Directors or by a duly authorized Membership Committee. An applicant will be accepted unless rejected in writing within thirty days for reasons satisfactory to the Board. If accepted, the applicant will be admitted to membership. If rejected, the applicant will be notified in writing and entitled to a refund of any amounts paid for membership fees and memberships.
+Applications for membership will be reviewed by the Board of Directors or by a duly authorized Membership Committee. An applicant will be accepted unless rejected in writing within thirty days for reasons satisfactory to the Board. If accepted, the applicant will be admitted to membership. If rejected, the applicant will be notified in writing and entitled to a refund of any amounts paid for memberships.
 
 ### Section 4.05. Transfers Prohibited.
 
 No member may transfer his or her membership or any right arising therefrom.
 
-### Section 4.06. Membership Fee.
-
-A one-time, nonrefundable membership fee, in an amount set from time to time by the Board of Directors, may be charged and collected from each member upon joining the Corporation.
+### Section 4.06. --- Intentionally Left Blank ---
 
 ### Section 4.07. Bylaws and Disclosures.
 
