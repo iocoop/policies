@@ -168,7 +168,7 @@ Notice may be given either personally, by electronic transmission by the corpora
 
 ### Section 6.06. Record Date for Notice.
 
-The record date for determining the members entitled to notice of any meeting of members is thirty (30) days before the date of the meeting.
+The record date for determining the members entitled to notice of any meeting of members is twenty (20) days before the date of the meeting.
 
 ### Section 6.07. Contents of Notice.
 
