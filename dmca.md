@@ -19,7 +19,7 @@ Then send this notice to:
 
 By Email:
 
-Email: dmca[...](http://www.google.com/recaptcha/mailhide/d?k=01hD5k4YNxYsKNh5vwkA95AA==&amp;c=4oWfMDiRWmrDZfVwkshfSQaeHJX6K4dhA9Jen0_ZKnw= "Reveal this e-mail address")@iocoop.org
+Email: dmca[...][dmca email captcha]@iocoop.org
 
 By Mail:
 
@@ -41,7 +41,7 @@ Then send this notice to:
 
 By Email:
 
-Email: dmca[...](http://www.google.com/recaptcha/mailhide/d?k=01hD5k4YNxYsKNh5vwkA95AA==&amp;c=4oWfMDiRWmrDZfVwkshfSQaeHJX6K4dhA9Jen0_ZKnw= "Reveal this e-mail address")@iocoop.org
+Email: dmca[...][dmca email captcha]@iocoop.org
 
 By Mail:
 
@@ -55,7 +55,7 @@ You may be able to find examples of counter-notifications at [http://www.chillin
 
 This page is based on [The Creative Commons Notice and Takedown Procedure][CC DMCA] by [Creative Commons][], used under a [Creative Commons Attribution license][CC BY 3.0]. This text is licensed to the public under the [Creative Commons Attribution-ShareAlike License][CC BY-SA 3.0].
 
-   [dmca email captcha]: http://www.google.com/recaptcha/mailhide/d?k=01IzbLS0y_bWQ4c872PwiQAg==&amp;c=rrgFCWyytvhRnvZtKcbRuUissLkSJxCMdLRc_KpBEKs= "Reveal this e-mail address"
+   [dmca email captcha]: http://www.google.com/recaptcha/mailhide/d?k=01IzbLS0y_bWQ4c872PwiQAg==&c=rrgFCWyytvhRnvZtKcbRuUissLkSJxCMdLRc_KpBEKs= "Reveal this e-mail address"
    [CC DMCA]: http://creativecommons.org/dmca
    [Creative Commons]: http://creativecommons.org/
    [CC BY 3.0]: http://creativecommons.org/licenses/by/3.0/
