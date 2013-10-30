@@ -19,7 +19,7 @@ Then send this notice to:
 
 By Email:
 
-Email: dmca[...][dmca email captcha]@iocoop.org
+Email: dmca[...](http://www.google.com/recaptcha/mailhide/d?k=01hD5k4YNxYsKNh5vwkA95AA==&amp;c=4oWfMDiRWmrDZfVwkshfSQaeHJX6K4dhA9Jen0_ZKnw= "Reveal this e-mail address")@iocoop.org
 
 By Mail:
 
@@ -41,7 +41,7 @@ Then send this notice to:
 
 By Email:
 
-Email: dmca[...][dmca email captcha]@iocoop.org
+Email: dmca[...](http://www.google.com/recaptcha/mailhide/d?k=01hD5k4YNxYsKNh5vwkA95AA==&amp;c=4oWfMDiRWmrDZfVwkshfSQaeHJX6K4dhA9Jen0_ZKnw= "Reveal this e-mail address")@iocoop.org
 
 By Mail:
 
