@@ -12,7 +12,7 @@ IO Cooperative accepts payment via electronic means only -- For example Paypal, 
 
 ## Billing Cycle
 
-All services, except hosting usage overage fees, are pre-paid. Usage overage fees are billed monthly. All invoice payments are due upon reciept of the invoice. Invoices which have not been paid within 30 days of reciept will trigger service suspension.
+All services, except hosting usage overage fees, are pre-paid. Usage overage fees are billed monthly. All invoice payments are due upon receipt of the invoice. Invoices which have not been paid within 30 days of receipt will trigger service suspension.
 
 ## Invoicing
 
