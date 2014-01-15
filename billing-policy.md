@@ -8,11 +8,11 @@ This page documents our policies. If you have a billing question, [billing@iocoo
 
 ## Payment Methods
 
-IO Cooperative accepts payment via electronic means only -- For example Google Checkout, Paypal, Credit Card, or ACH transfer. IO Cooperative does not accept payment via paper means. (No cash, nor cheques.)
+IO Cooperative accepts payment via electronic means only -- For example Paypal, Credit Card, or ACH transfer. IO Cooperative does not accept payment via paper means. (No cash, nor cheques.)
 
 ## Billing Cycle
 
-All services except hosting usage overage fees are pre-paid. Usage overage fees are billed monthly, and must be paid within 30 calendar days of being billed.
+All services, except hosting usage overage fees, are pre-paid. Usage overage fees are billed monthly. All invoice payments are due upon receipt of the invoice. Invoices which have not been paid within 30 days of receipt will trigger service suspension.
 
 ## Invoicing
 
@@ -22,13 +22,17 @@ We issue invoices and receipts via e-mail. This helps us keep our costs low, whi
 
 Unless alternative arrangements have been made to IO Cooperative's satisfaction, customers with balances 30 calendar days past due or greater are considered delinquent and subject to immediate service disconnection. IO Cooperative will not provide delinquent accounts with access to any customer-owned equipment nor to any data stored on its servers. We will notify the primary account contacts of pending suspension before suspending services.
 
+## Auto Billing Requirement for Routinely Delinquent Accounts
+
+All members who have balances in excess of 30 calendar days past due on two or more occasions in the previous 18 month period will be notified by IO Cooperative that they are now required to setup and enable credit card auto-billing. Once a member has received this notification, they must setup and enable credit card auto-billing on the first recurring invoice which they receive after being notified. If the member fails to configure credit card auto-billing with the first invoice they receive after notification, they must provide IO Cooperative with their credit card details within 7 days to be manually entered into the auto-billing system by the IO Cooperative CFO or the member's service will be suspended. This information must be conveyed in a GPG encrypted email, sent to the CFO. Service will remain suspended until auto-billing is enabled. Information on how to self-configure auto-billing as well as what information needs to be sent to the CFO in the case of failure to self-configure can be found on the [billing member document page](https://iocoop.org/member_docs/billing/#autobill).
+
 ## Service Cancellation
 
-In order to cancel service with IO Cooperative, members must request cancellation in writing via email to [support@iocoop.org][].
+In order to cancel service with IO Cooperative, members must request cancellation by email to [support@iocoop.org][].
 
    [support@iocoop.org]: mailto:support@iocoop.org
 
-Only the primary account holder can cancel an account. If you host data on our servers, be sure to retrieve any information you want to keep -- e-mail, web pages, files in your web site, home directories, etc. before you cancel. Upon cancellation, all user data will become inaccessible. As a matter of policy, we scrub the disk image associated with your VPS.
+Only the primary account holder can cancel an account. If you host data on our servers, be sure to retrieve any information you want to keep -- e-mail, web pages, files in your web site, home directories, etc. before you cancel. Upon cancellation, all user data will become inaccessible. In the interest of privacy and security, we scrub the disk image associated with your VPS after account cancellation.
 
 You will be responsible for all service fees through the effective date of cancellation regardless of whether or not you used the service. Cancellation requests must be made 30 days prior to the last day of service. For example, to terminate service on May 15th, a member would need to notify IO Cooperative by email on April 14th or before. If, in cancelling service, the member no longer is being provided any services from IO Cooperative, they may also leave the co-operative and be refunded their member deposit. This should be requested along with the service cancellation.
 
