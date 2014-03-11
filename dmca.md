@@ -24,8 +24,8 @@ Email: dmca[...][dmca email captcha]@iocoop.org
 By Mail:
 
 **DMCA Agent: Eugene Wood**  
-c/o IO Cooperative Inc
-2443 Fillmore St #380-4233
+c/o IO Cooperative Inc  
+2443 Fillmore St #380-4233  
 San Francisco, California 94117
 
 ## Counter-Notification
@@ -47,8 +47,8 @@ Email: dmca[...][dmca email captcha]@iocoop.org
 By Mail:
 
 **DMCA Agent: Eugene Wood**  
-c/o IO Cooperative Inc
-2443 Fillmore St #380-4233
+c/o IO Cooperative Inc  
+2443 Fillmore St #380-4233  
 San Francisco, California 94117
 
 You may be able to find examples of counter-notifications at [http://www.chillingeffects.org/dmca/counter512.pdf](http://www.chillingeffects.org/dmca/counter512.pdf). Please note, however, that this is no substitute for legal advice and you should obtain legal advice to better understand your rights and obligations under the DMCA and applicable laws.
