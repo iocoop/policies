@@ -182,7 +182,7 @@ A member's attendance at a meeting will constitute a waiver of notice of and pre
 
 ### Section 6.09. Quorum at Meeting.
 
-The lesser of two hundred fifty (250) members or members representing five percent (5%) of the voting power will constitute a quorum at a meeting of members. Any Bylaw amendment to increase the quorum may be adopted only by approval of the members. When a quorum is present, the affirmative vote of the majority of the voting power represented at the meeting and entitled to vote will be the act of the members, unless provided otherwise by these Bylaws or the law. The only matters that may be voted upon at any regular meeting actually attended by less than one-third (1/3) of the voting power are matters notice of the general nature of which was given pursuant to the first sentence of Section 6.04 of these Bylaws.
+The lesser of two hundred fifty (250) members or members representing twenty percent (20%) of the voting power will constitute a quorum at a meeting of members. Any Bylaw amendment to increase the quorum may be adopted only by approval of the members. When a quorum is present, the affirmative vote of the majority of the voting power represented at the meeting and entitled to vote will be the act of the members, unless provided otherwise by these Bylaws or the law. The only matters that may be voted upon at any regular meeting actually attended by less than one-third (1/3) of the voting power are matters notice of the general nature of which was given pursuant to the first sentence of Section 6.04 of these Bylaws.
 
 ### Section 6.10. Loss of Quorum at Meeting.
 
