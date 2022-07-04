@@ -13,5 +13,6 @@ Policies:
 * [Billing Policy](billing-policy)
 * [Security Policy](security-policy)
 * [Anti-Spam Policy](anti-spam-policy)
+* [Abuse Policy](abuse-policy)
 * [DMCA Notice & Takedown Procedure](dmca)
 
