@@ -17,6 +17,6 @@ availability for other cooperative members, the IP address will be immediately
 blocked and the member will be notified of the abuse and the block.
 
 Once the abuse is resolved the member's IP address may be unblocked. IO 
-Cooperative will [terminate membership](https://iocoop.org/policies/bylaws#section-503-expulsion)
+Cooperative will [terminate membership](../bylaws#section-503-expulsion)
 of any member who repeatedly allows abuse to originate from their IP address or
 if the IO Cooperative board deems the abuse to be intentional.

@@ -10,5 +10,5 @@ Elements of our security policy:
 * We will never require an IO Cooperative member to authenticate over an unencrypted connection
 * Keep systems up to date with security patches
 
-   [privacy policy]: https://iocoop.org/policies/privacy-policy/
+   [privacy policy]: ../privacy-policy
 
