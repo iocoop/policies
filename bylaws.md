@@ -90,7 +90,7 @@ No member may transfer his or her membership or any right arising therefrom.
 
 ### Section 4.07. Bylaws and Disclosures.
 
-Each prospective member, upon application for membership, must receive a copy of the Articles of Incorporation, Bylaws, and other relevant disclosures required by Coop Law Section 12401(b).
+Each prospective member, upon application for membership, must receive a copy of the [Articles of Incorporation](../articles-of-incorporation), Bylaws, and other relevant disclosures required by Coop Law Section 12401(b).
 
 ### Section 4.08. Membership Issuance.
 
@@ -98,7 +98,7 @@ Memberships may be issued for money paid in an amount and on terms determined fr
 
 ### Section 4.09. Membership Ownership.
 
-Membership ownership entitles a member to only one vote in the affairs of the Corporation, and to all the rights of membership as described by statute, the Articles of Incorporation, and these Bylaws. The Corporation will not pay dividends on memberships.
+Membership ownership entitles a member to only one vote in the affairs of the Corporation, and to all the rights of membership as described by statute, the [Articles of Incorporation](../articles-of-incorporation), and these Bylaws. The Corporation will not pay dividends on memberships.
 
 ### Section 4.10. Membership Receipt and Disclosures.
 
@@ -298,7 +298,7 @@ A majority of the authorized number of Directors constitutes a quorum for the tr
 
 ### Section 7.13. Acts of Board at Meetings.
 
-Unless provided otherwise in the Articles of Incorporation, these Bylaws, or by law, every act or decision done or made by a majority of the Directors present at a duly held meeting at which a quorum is present is the act of the Board. A meeting at which a quorum is initially present may continue to transact business notwithstanding the withdrawal of Directors, if any action taken is approved by at least a majority of the required quorum for the meeting or a greater number required by the Articles, these Bylaws, or by law.
+Unless provided otherwise in the [Articles of Incorporation](../articles-of-incorporation), these Bylaws, or by law, every act or decision done or made by a majority of the Directors present at a duly held meeting at which a quorum is present is the act of the Board. A meeting at which a quorum is initially present may continue to transact business notwithstanding the withdrawal of Directors, if any action taken is approved by at least a majority of the required quorum for the meeting or a greater number required by the Articles, these Bylaws, or by law.
 
 ### Section 7.14. Adjournment of Meetings.
 
