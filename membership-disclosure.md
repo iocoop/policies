@@ -8,17 +8,23 @@ IO Cooperative, Inc. is a cooperative corporation organized under the Consumer C
 
 ## 2. Copy of Articles and Bylaws
 
-A copy of the Corporation's Articles of Incorporation and its Bylaws will be furnished without charge to each member or prospective member upon written request. Requests should be sent via electronic mail to [support@iocoop.org][].
+A copy of the Corporation's [Articles of Incorporation][] and its [Bylaws][] will be furnished without charge to each member or prospective member upon written request. Requests should be sent via electronic mail to [support@iocoop.org][].
 
+   [Articles of Incorporation]: ../articles-of-incorporation
+   [Bylaws]: ../bylaws
    [support@iocoop.org]: mailto:support@iocoop.org
 
 ## 3. Assignment or Transfer
 
-No share or membership of this corporation may be assigned or transferred. Any attempted assignment or transfer will be wholly void and will confer no rights on the intended assignee or transferee. (See Bylaw Section 4.11.)
+No share or membership of this corporation may be assigned or transferred. Any attempted assignment or transfer will be wholly void and will confer no rights on the intended assignee or transferee. (See [Bylaw Section 4.11][].)
+
+   [Bylaw Section 4.11]: ../bylaws#section-411-prohibition-on-transfer-of-memberships
 
 ## 4. Termination of Membership
 
-Sections 5.01 through 5.04 of the Bylaws of the Corporation provide as follows:
+Sections [5.01 through 5.04 of the Bylaws of the Corporation][] provide as follows:
+
+   [5.01 through 5.04 of the Bylaws of the Corporation]: ../bylaws#article-v-termination-of-membership
 
 > ### Section 5.01. Voluntary Withdrawal.
 > 
@@ -42,5 +48,10 @@ Sections 5.01 through 5.04 of the Bylaws of the Corporation provide as follows:
 
 ## 5. Member's Proprietary Interest
 
-Membership in the Corporation is not an investment, and members will never be paid dividends on memberships. A member's proprietary interest in the Corporation is limited to the unredeemed total of money received by the Corporation in exchange for all memberships purchased by such member. (See Article 4 of the Articles of Incorporation and Bylaw Sections 4.08, 4.09, 5.04, and 11.03.) A member or former member's proprietary interest does not include amounts transferred to the Corporation pursuant to section 4.13 of the Bylaws (related to "unclaimed" equity interests).
+Membership in the Corporation is not an investment, and members will never be paid dividends on memberships. A member's proprietary interest in the Corporation is limited to the unredeemed total of money received by the Corporation in exchange for all memberships purchased by such member. (See Article 4 of the [Articles of Incorporation][] and Bylaw Sections [4.08][], [4.09][], [5.04][], and [11.03][].) A member or former member's proprietary interest does not include amounts transferred to the Corporation pursuant to [section 4.13 of the Bylaws][] (related to "unclaimed" equity interests).
 
+   [4.08]: ../bylaws#section-408-membership-issuance
+   [4.09]: ../bylaws#section-409-membership-ownership
+   [5.04]: ../bylaws#section-504-settlement-of-membership-interest
+   [11.03]: ../bylaws#section-1103-annual-allocations-and-distributions-of-surplus
+   [section 4.13 of the Bylaws]: ../bylaws#section-413-unclaimed-equity-interests

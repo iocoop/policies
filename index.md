@@ -2,6 +2,7 @@ Title: IO Cooperative Policies
 
 Member documents:
 
+* [IO Cooperative, Inc. Articles of Incorporation](articles-of-incorporation)
 * [Bylaws of IO Cooperative, Inc.](bylaws)
 * [Membership Disclosure Document](membership-disclosure)
 * [Consent and Notice Regarding Electronic Communications](electronic-consent)
