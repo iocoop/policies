@@ -13,6 +13,8 @@ These files are published at https://iocoop.org/policies/ as part of the [django
 
     ```sh
     cd django-iocoop
+    git checkout master
+    git pull
     pushd iocoop/static/policies/
     git pull
     popd
