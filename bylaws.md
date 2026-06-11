@@ -152,7 +152,7 @@ Meetings of members will be held either by electronic transmission by and to the
 
 ### Section 6.02. Regular Annual Meetings.
 
-A regular meeting of members must be held annually on the first Monday in October at 6:30 p.m. for the purpose of transacting any proper business, including the election of Directors, that may come before the meeting. If the day fixed for the regular meeting falls on a legal holiday, the meeting must be held at the same time and place on the next day.
+A regular meeting of members must be held annually on the first Saturday in October at 10:00 a.m. Pacific Time for the purpose of transacting any proper business, including the election of Directors, that may come before the meeting. If the day fixed for the regular meeting falls on a legal holiday, the meeting must be held at the same time and place on the next day.
 
 ### Section 6.03. Special Meetings.
 
